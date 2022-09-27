@@ -40,7 +40,7 @@ class PerfTaskSet(TaskSet):
         pass
 
     def create_req_payload(self):
-        with open("ab_service.json", "r" ) as jsonfile:
+        with open("sample-load-data/ab_service.json", "r" ) as jsonfile:
             data = json.load(jsonfile)
             return data["request"]
 
