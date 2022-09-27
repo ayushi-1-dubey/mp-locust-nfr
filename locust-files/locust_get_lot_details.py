@@ -25,13 +25,11 @@ class TesterClient:
         self.host = "localhost:8092"
         self.interceptors = [MetadataClientInterceptor()]
 
-    def get_available_lots(self, request: inventory_manager_pb2.GetAvailableLotsRequest) -> inventory_manager_pb2.AvailableLotsResponse:
+    def get_lot_details(self, request: inventory_manager_pb2.GetLotDetailsRequest) -> inventory_manager_pb2.LotResponse:
 
         stub = inventory_manager_pb2_grpc.InventoryManagerStub(grpc.intercept_channel(grpc.insecure_channel(
             self.host), *self.interceptors))
-        resp = stub.GetAvailableLots(request=request)
-        print(resp)
-
+        resp = stub.GetLotDetails(request=request)
 
 class PerfTaskSet(TaskSet):
 
@@ -42,18 +40,18 @@ class PerfTaskSet(TaskSet):
         pass
 
     def create_req_payload(self):
-        with open("sample-load-data/get_available_lots.json", "r" ) as jsonfile:
+        with open("sample-load-data/fkh_lot_ids.json", "r" ) as jsonfile:
             data = json.load(jsonfile)
             return data["request"]
 
     @task
-    def get_available_lots(self):
+    def get_lot_details(self):
 
         dict = self.create_req_payload()
         for req in range(0, len(dict)):
             payload_dict = dict[req]
-            req_data = inventory_manager_pb2.GetAvailableLotsRequest(apob_id="1", product_id=payload_dict["product_id"])
-            self.locust_request_handler("get_available_lots", req_data)
+            req_data = inventory_manager_pb2.GetLotDetailsRequest(fkh_lot_id=payload_dict["fkh_lot_id"])
+            self.locust_request_handler("get_lot_details", req_data)
 
     def locust_request_handler(self, grpc_name, req_data):
         req_func = self._get_request_function(grpc_name)
@@ -76,14 +74,14 @@ class PerfTaskSet(TaskSet):
 
     def _get_request_function(self, grpc_name):
         req_func_map = {
-            "get_available_lots": self.client.get_available_lots
+            "get_lot_details": self.client.get_lot_details
         }
         if grpc_name not in req_func_map:
             raise ValueError(f"gRPC name not supported [{grpc_name}]")
         return req_func_map[grpc_name]
 
 
-class GetAvailableLotDetails(User):
+class GetLotDetails(User):
     tasks = [PerfTaskSet]
 
     def __init__(self, *args, **kwargs):
