@@ -1,0 +1,16 @@
+syntax = "proto3";
+package com.flipkarthealthplus.marketplace.abService;
+option java_multiple_files = true;
+
+service ABService{
+  rpc IsEnabled(ABServiceRequest) returns (ABServiceResponse) {}
+}
+
+message ABServiceRequest{
+  string userId = 1;
+  string experimentName = 2;
+}
+
+message ABServiceResponse{
+  string bucketName = 1;
+}

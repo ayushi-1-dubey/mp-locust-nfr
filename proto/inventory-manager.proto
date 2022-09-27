@@ -1,0 +1,79 @@
+syntax = "proto3";
+package com.flipkarthealthplus.marketplace.inventorymanager.common;
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+option java_multiple_files = true;
+//option java_package = "com.flipkarthealthplus.marketplace.inventorymanager.common";
+
+service InventoryManager {
+  rpc GetLotDetails(GetLotDetailsRequest) returns (LotResponse) {
+  }
+  rpc GetLotQuantity(GetLotQuantityRequest) returns (LotQuantityResponse) {
+  }
+  rpc GetAvailableLots(GetAvailableLotsRequest) returns (AvailableLotsResponse) {
+  }
+  rpc GetAvailableLotsBulk(GetAvailableLotsBulkRequest) returns (AvailableLotsBulkResponse) {
+  }
+}
+
+message LotAttributes {
+  string product_id = 1;
+  string batch_id = 2;
+  google.protobuf.Timestamp expiry_date = 3;
+  google.protobuf.Timestamp mfg_date = 4;
+  int64 quantity = 5;
+  int64 sold_quantity = 6;
+  float mrp = 7;
+}
+
+
+message GetLotDetailsRequest {
+  string fkh_lot_id = 1;
+}
+
+message LotResponse {
+  string fkh_lot_id = 1;
+  LotAttributes lot_attributes = 2;
+}
+
+message GetLotQuantityRequest {
+  string fkh_lot_id = 1;
+}
+
+message LotQuantityResponse {
+  string fkh_lot_id = 1;
+  int64 quantity = 2;
+}
+
+message GetAvailableLotsRequest {
+  string apob_id = 1;
+  string product_id = 2;
+}
+
+message GetAvailableLotsBulkRequest {
+  repeated GetAvailableLotsRequest getAvailableLotsRequest = 1;
+}
+
+message FKHLot {
+  string fkh_lot_id = 1;
+}
+
+message AvailableLotsResponse {
+  repeated string fkh_lot_id = 1;
+}
+
+message AvailableLotsBulkResponseAttributes {
+  string external_lot_id=1;
+  string apob_id=2;
+  string fkh_lot_id=3;
+  LotAttributes lotAttributes=4;
+}
+
+message AvailableLotsBulkResponse {
+  repeated AvailableLotsBulkResponseAttributes availableLotsBulkResponseAttributes  = 1;
+}
+
+message ExternalLotIdentifier {
+  string name = 1;
+  string value =2;
+}

@@ -1,0 +1,1604 @@
+{
+    "request": [
+        {
+            "distributor_apob_id": "nfr_vMhMhyq8SzGqoFCp",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RYKhHhLwivGIOAwj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_odl3y7cHziIxTybZ",
+            "sold_quantity": 43,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_99jFwQbaVbErZ8zV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_17p9rVnMSrMNpCMo",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_HykZ0AJRRljwY5kM"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_zHawqagm4kn335TM",
+            "sold_quantity": 19,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_faLxTgDP0C46diqh"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_jedSYfg1vVWb9cyo",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6fmvFCbiAIpKoNwi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_rCFQGy7qjbPLO9SS",
+            "sold_quantity": 22,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NHF7gkwD6V1QwCOA"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_sRQMDIJFkJqzX0RU",
+            "sold_quantity": 33,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uK915cl4gL4F5wD3"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_vfAF04WGwz8LIA3A",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_LQb7wcGT2IYETLxc"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_YqVtrAohwUqiBeL7",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_461U2fdXvG3zIoLn"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_eC2kNvqxtkUuK5C5",
+            "sold_quantity": 17,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uBkGQdlQDxlR23s5"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_4D9DXb2wLXoc0w6c",
+            "sold_quantity": 10,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0gaGBSIEzXcwJe7M"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_fWVU8rc8ReCRjjS7",
+            "sold_quantity": 42,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rHoWLJajEqWdTfWd"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_V1NA3zdaqHYrzAix",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_EAlVNmaEym3OxmDh"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Rwcc1f3c8DvqJI6C",
+            "sold_quantity": 31,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_oy5NcH8lWu1CoQbG"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_3cYeaJLQDsq4koBo",
+            "sold_quantity": 30,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RnGjJgPRDE7ntnIc"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_lPHvSnzLQtgB3qrr",
+            "sold_quantity": 50,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jNtbxLJbCByRrr8Q"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_bJNPTTHJDQByc5dR",
+            "sold_quantity": 17,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jwMRYmc1wjZJX92C"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_QPVdcpw1mvNAnUhd",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_H45QSqPxjvPgm4fV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_hBPM9lxdL2o7tR4j",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0vEQ7B7DjPo56AYn"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_jLBrhnwgUS3vPIUY",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_65zF6XukqqmiY3vO"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_PLIx2rpk0U7cWUNP",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GlrSQ1kxjjJT3GiA"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_A2Yi2Mi7WFOWgr0a",
+            "sold_quantity": 39,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SzNap4K4ZAZTFfXl"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_F5p0mW80noLEmjja",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_oPOq8E038BWs54fj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_w5bTPu26EtUlwlw5",
+            "sold_quantity": 46,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_B10UHioaAseXn25L"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_JkVOpRn3CSGRoFM8",
+            "sold_quantity": 33,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0FGimIBNTQK6hYRj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_18giifpZ1naCpuqu",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6eoFQFAncEXmquLn"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_RQBQvmt5TQnJcCPd",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hgH5Ok5kTH5LgkAv"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_NWUsth2CLHQaBKP2",
+            "sold_quantity": 26,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_iDKC3KGil0A2hJiZ"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_TkspJmurAufBQb22",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1yZGyGnESo9uf3WW"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_T33KKNCxLsiuOtdF",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9ZFeeVWlUVbeJw17"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_sA7FjUKbGmrat6hp",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_a777u5CKCe8qsU7l"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_6isfsR1HxC9o15E0",
+            "sold_quantity": 12,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JOT1StNW5w6iglCm"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_QDLuWh5M3rulR1Im",
+            "sold_quantity": 51,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_WUUL25wuuNj2aq5w"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_c7eywe9mGNZ0TeYs",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_BipgJ0UDZXFTj93z"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_7BZnNCsN0SV1dZeU",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SOgpvOYfcuje6kSL"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_uYRq14F41qkhlU0e",
+            "sold_quantity": 47,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Id5czcjYSUjzetBI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ahIbILmpZARmMPAW",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dS2W6BaplPb0K2gV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_aURvcwlp3B9TQYMo",
+            "sold_quantity": 31,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1HAt4S7qGXwhdlIi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_2v7Hmh59qcRhHa6D",
+            "sold_quantity": 4,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kTxziBqzTSXvLrQZ"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_YdBzQlTJWO7U4sZd",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZaT4C8eBOlurDIQL"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Ee1PnTX52Yv8EELr",
+            "sold_quantity": 9,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5V3KrwNxjHmzy8Qj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_A7dTHKq4zsC3o8IU",
+            "sold_quantity": 12,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_j4RSz76yLrpDoQ3O"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_k5An1tv8ieq54rDx",
+            "sold_quantity": 49,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kpSNpTwipBmjONYX"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_9YGYgQCOEiS8tR1I",
+            "sold_quantity": 27,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_p7oF5csZtIHJLMim"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_nEVb6qCkpOJPKhYM",
+            "sold_quantity": 26,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nJDgMYqLm721KbDt"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_GL88BUHK1JXa9J7w",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_WAdDlKCu4XckinHj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_LDryZx0Fj3vdkRQ1",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vQXQBV4diTK08uBr"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_CQWOd0IIYzkExuBE",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NtdoC3vKfIKb26vi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_bKy7LAdiNqtOJQKa",
+            "sold_quantity": 23,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kOPIVWJ3XdkAL6YD"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_3ZNz78JFUV7JYkGA",
+            "sold_quantity": 22,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JR2fBtXAAYPfqbOc"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ZYG1rwsh1FLJkuzY",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_elnQniY99zDTKRKX"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_OqDNy54IBewDg63Y",
+            "sold_quantity": 47,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_8Kvlr75huV7Q3vfi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_liWX1h4z220Q9O3e",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YIVm0WWugDSWWEh3"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_VdNB2VOht5n98sCv",
+            "sold_quantity": 49,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_2495QLV4q4CqHieq"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_zxNkNnpG1DiEZfwO",
+            "sold_quantity": 9,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PqxixSLQ4Ct4BdIg"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ASoH2fLSyE2ZDjwy",
+            "sold_quantity": 17,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jkAvXwRJRgvxm3sI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_490ceL6RArbyTtzT",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZtdXnk66FL4UCGW7"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_QLwrjtaOdmQZ942d",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fdYgNkpNFUvwVTKT"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_jaWjUooX65vBMpv7",
+            "sold_quantity": 23,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_AUkgFPO6Ss22hcvJ"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_TX6eIEYD28NMnWkq",
+            "sold_quantity": 47,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Q06HGe7CnDoOY0Y5"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_0UOIVBRjILsszu2D",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5zH7cj1eeUlbV2Ln"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_6Fxi78C2olc2tZZK",
+            "sold_quantity": 27,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JUtz59ttPuQnhVa0"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_7CwFM2bOXtUj6Txi",
+            "sold_quantity": 11,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_VcPgjb62ivcbJJB3"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_UW0RWt7Ief7rxspk",
+            "sold_quantity": 33,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_zDtk0Hi2L9RVRxRq"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_tPH4JJBDG8M6ZBAz",
+            "sold_quantity": 31,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9zf3sKcE5aumL5CM"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_HUBuOxm1wcram921",
+            "sold_quantity": 48,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TMOktF6mh16bFt1E"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_rX6uRsl5HKTwS7Lv",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6J3CswQrla7H1Bbx"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_AtINITiygDYsVj5f",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fH3NMCEUyzWo0Q6h"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_JFgMcrzPB9E2dPsO",
+            "sold_quantity": 27,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dQrBaY0s8ZNtEJyi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_t3xRNcVC5gmZh8pO",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tuVzQPee1nrfRsnO"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_gYtbMQGc4eKV4FwQ",
+            "sold_quantity": 41,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kM9OZP45YvrrnvTY"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_VH5FUuEM413HA4SJ",
+            "sold_quantity": 44,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4ZDQUEBht09LZoWT"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Kxe6Jil5IFSDD3lV",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4NzBwZRtlNbeFea8"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_9mzBvlFoGLIozehX",
+            "sold_quantity": 10,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tR1BJCA1umcAR5OB"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_CZ1l21IcawRp1C88",
+            "sold_quantity": 28,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_agHbhds0dplBvObU"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Q8UK08ZMMo6PgO60",
+            "sold_quantity": 12,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_AzzdPWWdXpaWSKwj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_WV5yKqQSBki4c0rZ",
+            "sold_quantity": 30,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wdJBEnx72md12lmo"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_IGXWu3K8hi8cdAtX",
+            "sold_quantity": 37,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uwVve1nLO6pLQHRP"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_sUn3r8H1w4255pux",
+            "sold_quantity": 13,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_FImfdlbmpJOb8f9p"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_YmZsAv4Zf4qXInVa",
+            "sold_quantity": 4,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aprs08jgQTxfpSu4"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_j3XdKVy1oEuPYZ6C",
+            "sold_quantity": 51,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_W5QydIN97DV9tPBc"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_mHKeSwdHPi3RNkSV",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dhsgmGi6WHTZiTk3"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_9SBggG9ZVwbtKWMp",
+            "sold_quantity": 20,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SMHOmWaFe03fMuH0"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_WIyNXKgQNXjXs3qj",
+            "sold_quantity": 23,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bsGrKWVwvz2ZeF8m"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_kNzk5sgtqWCqq3uT",
+            "sold_quantity": 47,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tQM3M1JjdwDNStRV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_5dfiz5xfLPVCUAxc",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_QFPDgH2yXbBd50G8"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_HsxIDQoFrGiHCWHh",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_C8d6uLuZBoHdzDHB"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_L48cWjxUdyXAhXKT",
+            "sold_quantity": 43,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1F5a1mhrWx8mv51h"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_DYqV0HWCYm2dQWEa",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_eKQRNE6kH9laSWjn"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_SQ74LvLsb2DOwgHs",
+            "sold_quantity": 30,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_n4CeiBcCnF0uj9Et"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_RaJDHm467RZZMDuD",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_DmMYGaCGuYUbGoJC"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_4a2cuXP8UyF1q2cM",
+            "sold_quantity": 30,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lcqpqD0hxJMLXtZD"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_14GX1ITYaiRbF3sr",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hG8fPB4BRMX8iFmK"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ihcbb96xfNE92P51",
+            "sold_quantity": 17,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_EixvJbSIXkVstxu9"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_BGEXUwGk1vtWwQJE",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lVULyPZ0XTPfW32l"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_HEkWHQ9c81hS3Cvj",
+            "sold_quantity": 49,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZgNonxWBHTrdWR6t"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_jtmsTxUi5w9nKKMW",
+            "sold_quantity": 51,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YfoPQ6CoC7YMxrn6"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_wOCAbfPRBRsMSPaQ",
+            "sold_quantity": 43,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GM2PT92Iu8iJHOWb"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_H88NUdnyz3eo6yFs",
+            "sold_quantity": 37,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pOUztl1mlyU6yH29"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_P1lICIjEpgX1nEcG",
+            "sold_quantity": 33,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hh9gBQXUOu0ByKqT"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_QvY1mV8A0S1GhOGy",
+            "sold_quantity": 36,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_h9CTbEjJIolr42s3"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_LUULIxHb5ywmqudu",
+            "sold_quantity": 11,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hOLx6pvSPHTOsSVq"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_0USppIUNGqLP1217",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_t4jD4Wd6416Hcv5b"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_S4ZdPdJOio3OFsWh",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nsagKGtJ53QQ9dXl"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_FeuJlItEzl8lyyGC",
+            "sold_quantity": 2,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aPEs4nyaX2lFY9AD"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_jswJq52bdIYFKwhs",
+            "sold_quantity": 4,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_IHJILn6gZZnh5sfM"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_GUaUYqNz38DmXAkb",
+            "sold_quantity": 33,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_582b1rukZc5NTDXX"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_7K9ERWkalFw0tZwB",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_XtUGIpvYk88ENmBD"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_8DZlfBkI9Xh1lRIc",
+            "sold_quantity": 34,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nu9A8SKwXeuuSPsk"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_1MSHFFI3NIAZg25E",
+            "sold_quantity": 7,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_BcZaC58oa2UQlJAA"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_TXhBqeuQjF5WyFQt",
+            "sold_quantity": 8,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_gUlAH2w3wIo1fHm7"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ghuIuc4EE7FW77pR",
+            "sold_quantity": 39,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_eJS3VlonrX2TywJl"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_5N8S1NSmPOqZJ0SE",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5sijekWSDDNWCR5g"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_s8wB2i0V3avHTarN",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pX37xMmY44hZkZ3x"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_3CfPoffu35e12u91",
+            "sold_quantity": 13,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Z2Di2cr3WrkZjXrI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_L3v9K9imzCpq81I6",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lafwMLRDUeztVo8W"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_XpN1iiZAG0SPldXq",
+            "sold_quantity": 50,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_HfIhwMAKCE8iabhv"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_pMRoFRwsaXQ3m9py",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_UrQJYFi77ia9ajFs"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_wCFNzEjGfhW0i2nD",
+            "sold_quantity": 35,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YWVIOoOGnsRfEGQK"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_00n3J8FA6mnXnli6",
+            "sold_quantity": 34,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5QMeltmbWnFpvEm5"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_O3YJKQZunOAzIIYh",
+            "sold_quantity": 26,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_20t8r7sBrYxYpMxH"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_nwZtBM4PDo8L9yPf",
+            "sold_quantity": 44,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bjx9bqjcn9NPov6R"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_V47SMQ2P5udk1qVF",
+            "sold_quantity": 32,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_MQHxYdAvCU9lIqyY"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ZQ3eWEPtOEyIAuls",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_7TaQn6UeKz20qHDV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_hhCoHEauyHqGOu4n",
+            "sold_quantity": 14,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_KI8ZlQKD37qBvhp4"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_gYYkYvnHUIXlFTds",
+            "sold_quantity": 34,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_cBCMhrWTTGSHlHe8"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_p34b1me576Zy97Cx",
+            "sold_quantity": 11,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rv9qR9wTY7z8GQf8"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_r0BDrunCRckAOXXQ",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4MkLrSy1ex6LvzYP"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ppmgp0fuPxzpT0Uc",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_8eMeaaVhrOXF6KyK"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_IU5mTcFhYFsNI0Vx",
+            "sold_quantity": 52,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_iOVoBJGLUomvZSGW"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_duRcwvhEdupBtNZo",
+            "sold_quantity": 24,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_3AgnMEnZcGqZBQpd"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_6avnu8b4dZL4G8ky",
+            "sold_quantity": 8,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fMXnC7AWKeR29dfb"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Do92mJ6lujrWF9JY",
+            "sold_quantity": 7,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_g54SEYcozrfW1czO"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_7q6A58CZQXvw1qba",
+            "sold_quantity": 42,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RZ3oL37PRn9tfm7i"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_wNk1MxAyXZKEC1bg",
+            "sold_quantity": 20,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5RiAXCnrhm80NtoR"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_M8mIPEA204mECHfO",
+            "sold_quantity": 3,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aiEqwnfYJITshoXa"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_9rqcF1h2RzfpXbBB",
+            "sold_quantity": 10,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dffI57r8H3uZWei6"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_na4ZeRFtzSH5O7bI",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nh8C8VRae3Cn6KCz"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_5kQsjy198zTqmGY2",
+            "sold_quantity": 31,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_DkKl8Aj9W4iR7Sbj"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Yt5yRlpwyPaCEdwK",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_o9GuxwSCbVbbJmz9"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_zuwrpGTmixjuda4E",
+            "sold_quantity": 50,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TJPJnkyTIjLEsmnW"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_47ze2E4pemj1bWW9",
+            "sold_quantity": 39,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Q2nISvPgAhQms5TS"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_F3XSdE7OHDVgro5t",
+            "sold_quantity": 34,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wZlYXqDW6xeuVpW5"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_3XxWAoODwa73e6Yz",
+            "sold_quantity": 50,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RAOPhyveXhZqLK2M"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_0pCO4h6NAuEnlxiF",
+            "sold_quantity": 11,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vuhYfYPkw0haajgu"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_XgwbQNCRI3U98c1K",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9NAt2rPr8jk4DiFM"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_cCGUBueTYYav0i0B",
+            "sold_quantity": 37,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_yGI5FDHPm86aq81i"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_I0fyaXoOphypN9A0",
+            "sold_quantity": 41,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wC5QU3unSHmSRsWc"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_PiUfvDZ7piWr9mha",
+            "sold_quantity": 46,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Xzb9Gx2N7wF7Wzvk"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_tQP5R5PSgPHUGFz2",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Bx2Ze5yHFBpBAUkF"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_JShwz9oQ7QwFoFVD",
+            "sold_quantity": 28,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PzorEKkYWmn2BGvv"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_35TRG52IC53hQBjk",
+            "sold_quantity": 26,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5V95dBUFustQBf5g"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_WMFJTtvZt5wd5GQJ",
+            "sold_quantity": 42,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kFZnInrHb4nGFiXJ"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_cmdRmOFb9Mxx2fNx",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vtgTje9Bv9JJZ9nX"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_mZx4Js6gqJggUyYt",
+            "sold_quantity": 22,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_u2gyQ8zMldwg01RX"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_SAuiTy5osWIKaw2c",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pPWQ7P30JM6M6Moh"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_71rFoUL61t8BEJnx",
+            "sold_quantity": 50,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Bu3olNlS3JgkRc7G"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_u1zYsOCUBF0zUPe2",
+            "sold_quantity": 8,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_93O1NksOX0IbNYEl"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_h59WmJyHVOPsG0PK",
+            "sold_quantity": 8,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_UymN5P1aWT3bOvQ7"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_9uCV3vExtlZHxct6",
+            "sold_quantity": 21,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GTcmNwkQKaEpATfu"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_qID0V4vIgCnID1ML",
+            "sold_quantity": 19,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6mObOQVbpgqD5ZCg"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_w88uZYm3ljkydhHo",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JYH6mRtYXpBcOQ8j"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_8BxPMZBClqTJdS1V",
+            "sold_quantity": 45,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PidQVmQVHa8teClw"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_1YmBBanupdcoTV21",
+            "sold_quantity": 12,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_2S6F3CDmYdMsEx8z"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_GuEf3wWCeu4MOvGH",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_3CqRD8k6abrou00E"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_JGGuVgmer3htQ1ei",
+            "sold_quantity": 16,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_xExgiAw2TT4NkYft"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ZdJG9TGnNk2hWYOi",
+            "sold_quantity": 15,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_FngULeaWKM0sWFEF"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_aRrsz8d3ZUPFOBUD",
+            "sold_quantity": 12,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_moKfxUHixM5I8evP"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_JASFQqbgnmzp37y3",
+            "sold_quantity": 35,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rGrccr45yp0EH25Y"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_SqDCVt7iIJQ2YEA4",
+            "sold_quantity": 19,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_XP17kR0wnfzyrmy9"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_0o2NKHs1BwWUy7wp",
+            "sold_quantity": 41,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_n69OeBeEDlcFIPaG"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_GcH3d5l4CzFWLRsb",
+            "sold_quantity": 9,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TLEjbb9yQJ0LPfOB"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_iT4TJsnoPhPsULqP",
+            "sold_quantity": 46,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1ZfchUPU6ttFMITv"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Cnl1eFlkuc6jm6VQ",
+            "sold_quantity": 41,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ofT2uotjDR3meaj1"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_89eUCJ3RFNkICkWr",
+            "sold_quantity": 26,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0J3h15jYMbsFpwy6"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_8ljTTA1gYIsjgh1m",
+            "sold_quantity": 35,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bAx3ueQWWAiByIxS"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_CzKLHEhqAKiTnhXM",
+            "sold_quantity": 49,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_xSKpQoIS6d2AVyyl"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_psCUVseVDCmrNlGE",
+            "sold_quantity": 18,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Mnd8Fs1vRUNC2i48"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_NFLFaYD6QWiSw04W",
+            "sold_quantity": 35,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5S9szixJvn4GQemA"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_biY5llC81rmgVkbI",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_gvVIXyxL8ogMewX9"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_tffnFXvpg02KXpMu",
+            "sold_quantity": 6,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_OFadVgENFW8eug4i"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_OKT3OOvbydI7QRDn",
+            "sold_quantity": 4,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_C8M0D84wSubYmx8A"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_51u5d3unzLTwB7Be",
+            "sold_quantity": 14,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_afAxTXbylfSZzvVR"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_qgovA2moGy4hXqRF",
+            "sold_quantity": 40,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_MDPaakhwEj2TT5tI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_BxFcX6VawHw9eOup",
+            "sold_quantity": 5,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_mhCsdC51OOwMnVqI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_YSnigvSZcV6btunR",
+            "sold_quantity": 19,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_O9qmWU6nSTmgQZ9X"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_wVprRLOrjMOmfbsJ",
+            "sold_quantity": 22,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_t7nFvdix70l4JWDV"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_Vtq560F0biiG9a2j",
+            "sold_quantity": 13,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NM6oNHdJkUTO3Nc2"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_eGlwwHw5uA6qLIBl",
+            "sold_quantity": 48,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4E3EEBSPZIfEh8hn"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ShkpeYIOk8EzywJL",
+            "sold_quantity": 29,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_azFm422tNPwXKePq"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_ptgSZfxLshmkTQZ3",
+            "sold_quantity": 4,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vBnMBKPuuskgEDDe"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_pjqoIl2tIUNwCtT3",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pvBqdbGbYrL8fBup"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_S2dRVAt0Rw6XI8xc",
+            "sold_quantity": 17,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nbEoGdWkdImbtoVI"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_85e2qPsNQw60xPDD",
+            "sold_quantity": 45,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lBP6s2cODgVUb3tm"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_YdKdYJSoGIch5SuJ",
+            "sold_quantity": 25,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tynS7w6ZAGSswaZa"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_rSsqpWEMY8PSEjwO",
+            "sold_quantity": 20,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_o66L3Itgfc0lZMd8"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_dMyuZtVxBYZ80b4A",
+            "sold_quantity": 38,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4wInnYyoy6AETHN7"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_vIA72MdFVdAyOaDR",
+            "sold_quantity": 37,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4ZXeXSb9ox9h5CcN"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_nbqr4sVzONof3779",
+            "sold_quantity": 44,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Tn1Z5XRGhL2SyGPi"
+            }
+        },
+        {
+            "distributor_apob_id": "nfr_MFqKFfpTu0npqRCA",
+            "sold_quantity": 20,
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_mV5nceIGvOS1q2R3"
+            }
+        }
+    ]
+}

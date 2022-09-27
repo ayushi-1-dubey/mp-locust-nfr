@@ -1,0 +1,128 @@
+syntax = "proto3";
+package com.flipkarthealthplus.marketplace.portalservice.distributorservice;
+import "google/protobuf/timestamp.proto";
+
+option java_multiple_files = true;
+
+service DistributorService {
+  rpc CreateInventory(CreateInventoryRequest) returns (CreateInventoryResponse) {
+  }
+  rpc GetLotDetails(GetLotDetailsRequest) returns (LotResponse) {
+  }
+  rpc GetAvailableLots(GetAvailableLotsRequest) returns (AvailableLotsResponse) {
+  }
+  rpc UpdateInventoryQuantityUsingFKHLotId(UpdateInventoryQuantityUsingFKHLotIdRequest) returns (UpdateInventoryQuantityUsingFKHLotIdResponse){
+  }
+  rpc UpdateInventorySoldQuantityUsingFKHLotId(UpdateInventorySoldQuantityUsingFKHLotIdRequest) returns (UpdateInventorySoldQuantityUsingFKHLotIdResponse){
+  }
+  rpc UpdateInventoryQuantityUsingExternalLotId(UpdateInventoryQuantityUsingExternalLotIdRequest) returns (UpdateInventoryQuantityUsingExternalLotIdResponse){
+  }
+  rpc UpdateInventorySoldQuantityUsingExternalLotId(UpdateInventorySoldQuantityUsingExternalLotIdRequest) returns (UpdateInventorySoldQuantityUsingExternalLotIdResponse){
+  }
+  rpc GetDistributorApobToWarehouseIdMapping(GetDistributorApobToWarehouseIdMappingRequest) returns (GetDistributorApobToWarehouseIdMappingResponse){
+  }
+}
+
+message LotAttributes {
+  string product_id = 1;
+  string batch_id = 2;
+  google.protobuf.Timestamp expiry_date = 3;
+  google.protobuf.Timestamp mfg_date = 4;
+  int64 quantity = 5;
+  int64 sold_quantity = 6;
+  float mrp = 7;
+}
+
+message CreateInventoryRequest {
+  string distributor_apob_id = 1;
+  LotAttributes lot_attributes = 2;
+  ExternalLotIdentifier external_lot_id = 3;
+}
+
+message CreateInventoryResponse {
+  string fkh_lot_id = 1;
+  string status = 2;
+}
+
+message GetLotDetailsRequest {
+  string fkh_lot_id = 1;
+}
+
+message LotResponse {
+  string fkh_lot_id = 1;
+  LotAttributes lot_attributes = 2;
+}
+
+message GetAvailableLotsRequest {
+  string distributor_apob_id = 1;
+  string product_id = 2;
+}
+
+message AvailableLotsResponse {
+  repeated string fkh_lot_id = 1;
+}
+
+message FKHLot {
+  string fkh_lot_id = 1;
+}
+
+message UpdateInventoryQuantityUsingFKHLotIdRequest {
+  string fkh_lot_id = 1;
+  string distributor_apob_id = 2;
+  LotAttributes lot_attributes = 3;
+  ExternalLotIdentifier external_lot_id = 4;
+}
+
+message UpdateInventoryQuantityUsingFKHLotIdResponse {
+  string fkh_lot_id = 1;
+  string status = 2;
+}
+message UpdateInventorySoldQuantityUsingFKHLotIdRequest {
+  string fkh_lot_id = 1;
+  string distributor_apob_id = 2;
+  int64 sold_quantity = 3;
+}
+
+message UpdateInventorySoldQuantityUsingFKHLotIdResponse {
+  string fkh_lot_id = 1;
+  string status = 2;
+}
+
+message UpdateInventoryQuantityUsingExternalLotIdRequest {
+  string distributor_apob_id = 1;
+  LotAttributes lot_attributes = 2;
+  ExternalLotIdentifier external_lot_id = 3;
+}
+
+message UpdateInventoryQuantityUsingExternalLotIdResponse {
+  string fkh_lot_id = 1;
+  string status = 2;
+}
+
+message UpdateInventorySoldQuantityUsingExternalLotIdRequest {
+  string distributor_apob_id = 1;
+  int64 sold_quantity = 2;
+  ExternalLotIdentifier external_lot_id = 3;
+}
+
+message UpdateInventorySoldQuantityUsingExternalLotIdResponse {
+  string fkh_lot_id = 1;
+  string status = 2;
+}
+
+message ExternalLotIdentifier {
+  string name = 1;
+  string value = 2;
+}
+
+message DistributorApobToWarehouseIdMapping {
+  string apob_id=1;
+  int64 warehouse_id=2;
+}
+
+message GetDistributorApobToWarehouseIdMappingRequest{
+}
+
+message GetDistributorApobToWarehouseIdMappingResponse{
+ repeated DistributorApobToWarehouseIdMapping distributor_apob_mapping=1;
+}

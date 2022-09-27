@@ -1,0 +1,4604 @@
+{
+    "request": [
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_vMhMhyq8SzGqoFCp",
+            "lot_attributes": {
+                "batch_id": "nfr_epIquLBRkY4KCJlq",
+                "product_id": "nfr_tjcQI4rtAKayGnmz",
+                "expiry_date": {
+                    "seconds": 2488202853,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1102348310,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 27,
+                "mrp": 2.96
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RYKhHhLwivGIOAwj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_odl3y7cHziIxTybZ",
+            "lot_attributes": {
+                "batch_id": "nfr_fjEoZPJYGQi5NgzG",
+                "product_id": "nfr_QfBd63OEmMi6Unuf",
+                "expiry_date": {
+                    "seconds": 2398251056,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1482067751,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 41,
+                "mrp": 2.45
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_99jFwQbaVbErZ8zV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_17p9rVnMSrMNpCMo",
+            "lot_attributes": {
+                "batch_id": "nfr_HAf3XVzzW8CXo8wu",
+                "product_id": "nfr_L02WBW4sQV23EKnd",
+                "expiry_date": {
+                    "seconds": 2532470165,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1119514250,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 19,
+                "mrp": 2.62
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_HykZ0AJRRljwY5kM"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_zHawqagm4kn335TM",
+            "lot_attributes": {
+                "batch_id": "nfr_OOIC8HQqun3Z6op1",
+                "product_id": "nfr_oRmbakwHhTpPKan9",
+                "expiry_date": {
+                    "seconds": 2395405681,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1400956892,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 17,
+                "mrp": 2.82
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_faLxTgDP0C46diqh"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_jedSYfg1vVWb9cyo",
+            "lot_attributes": {
+                "batch_id": "nfr_EzkU8nV6cGUhnsgg",
+                "product_id": "nfr_OM1dQeNAXazEYP6e",
+                "expiry_date": {
+                    "seconds": 2619167978,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1552828937,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 19,
+                "mrp": 1.57
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6fmvFCbiAIpKoNwi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_rCFQGy7qjbPLO9SS",
+            "lot_attributes": {
+                "batch_id": "nfr_2sum7vDVYigvLVl9",
+                "product_id": "nfr_iWXFmSVDM9kloKty",
+                "expiry_date": {
+                    "seconds": 2393234590,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1176420180,
+                    "nanos": 356000000
+                },
+                "quantity": 57,
+                "sold_quantity": 20,
+                "mrp": 2.2
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NHF7gkwD6V1QwCOA"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_sRQMDIJFkJqzX0RU",
+            "lot_attributes": {
+                "batch_id": "nfr_VqOogeqCwXpzlaYh",
+                "product_id": "nfr_drHMy3upyRnwHtg8",
+                "expiry_date": {
+                    "seconds": 2571649930,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1186677373,
+                    "nanos": 356000000
+                },
+                "quantity": 88,
+                "sold_quantity": 31,
+                "mrp": 3.01
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uK915cl4gL4F5wD3"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_vfAF04WGwz8LIA3A",
+            "lot_attributes": {
+                "batch_id": "nfr_K9wATLpX3nZiaJL6",
+                "product_id": "nfr_ZdSvqHgX58T3wIUZ",
+                "expiry_date": {
+                    "seconds": 2235494951,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1248741590,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 22,
+                "mrp": 2.11
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_LQb7wcGT2IYETLxc"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_YqVtrAohwUqiBeL7",
+            "lot_attributes": {
+                "batch_id": "nfr_UOjO8Qlpm87GiFRc",
+                "product_id": "nfr_eCjq35V9OZ8tssmW",
+                "expiry_date": {
+                    "seconds": 2449246293,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1202954846,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 36,
+                "mrp": 2.91
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_461U2fdXvG3zIoLn"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_eC2kNvqxtkUuK5C5",
+            "lot_attributes": {
+                "batch_id": "nfr_j3kTZ4bGRvCSonTw",
+                "product_id": "nfr_my78bMdvY4Id7Zxw",
+                "expiry_date": {
+                    "seconds": 2374885478,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1232562205,
+                    "nanos": 356000000
+                },
+                "quantity": 94,
+                "sold_quantity": 15,
+                "mrp": 1.59
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uBkGQdlQDxlR23s5"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_4D9DXb2wLXoc0w6c",
+            "lot_attributes": {
+                "batch_id": "nfr_R2QzmzgId7Z231cb",
+                "product_id": "nfr_CUppChLdtSaLWoHJ",
+                "expiry_date": {
+                    "seconds": 2251449997,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1108540012,
+                    "nanos": 356000000
+                },
+                "quantity": 81,
+                "sold_quantity": 8,
+                "mrp": 3.81
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0gaGBSIEzXcwJe7M"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_fWVU8rc8ReCRjjS7",
+            "lot_attributes": {
+                "batch_id": "nfr_xVxDOsUqr13x8faN",
+                "product_id": "nfr_8QU6cxadGRdwrFbz",
+                "expiry_date": {
+                    "seconds": 2348856734,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1472908853,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 40,
+                "mrp": 2.65
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rHoWLJajEqWdTfWd"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_V1NA3zdaqHYrzAix",
+            "lot_attributes": {
+                "batch_id": "nfr_aJfEdQ3euevLIWci",
+                "product_id": "nfr_eP1xM6J9sc67LPUz",
+                "expiry_date": {
+                    "seconds": 2614031987,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1465715876,
+                    "nanos": 356000000
+                },
+                "quantity": 100,
+                "sold_quantity": 38,
+                "mrp": 3.03
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_EAlVNmaEym3OxmDh"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Rwcc1f3c8DvqJI6C",
+            "lot_attributes": {
+                "batch_id": "nfr_UTqGNKNWzC1eDZAf",
+                "product_id": "nfr_Wu9GXazh5CpsDhwq",
+                "expiry_date": {
+                    "seconds": 2222196753,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1227985093,
+                    "nanos": 356000000
+                },
+                "quantity": 74,
+                "sold_quantity": 29,
+                "mrp": 2.95
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_oy5NcH8lWu1CoQbG"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_3cYeaJLQDsq4koBo",
+            "lot_attributes": {
+                "batch_id": "nfr_jLMyWsITf3GleP5a",
+                "product_id": "nfr_wT6395vosUA2c7Fx",
+                "expiry_date": {
+                    "seconds": 2437102336,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1156985363,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 28,
+                "mrp": 1.72
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RnGjJgPRDE7ntnIc"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_lPHvSnzLQtgB3qrr",
+            "lot_attributes": {
+                "batch_id": "nfr_xHTVBT8AS4GmnSql",
+                "product_id": "nfr_dkMUOHDUZ0wfMQew",
+                "expiry_date": {
+                    "seconds": 2378836692,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1518357880,
+                    "nanos": 356000000
+                },
+                "quantity": 61,
+                "sold_quantity": 48,
+                "mrp": 3.38
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jNtbxLJbCByRrr8Q"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_bJNPTTHJDQByc5dR",
+            "lot_attributes": {
+                "batch_id": "nfr_gzeCi57WhEXfSVSg",
+                "product_id": "nfr_H2iNnOqlUtvgC1TE",
+                "expiry_date": {
+                    "seconds": 2340969555,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1362484008,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 15,
+                "mrp": 2.4
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jwMRYmc1wjZJX92C"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_QPVdcpw1mvNAnUhd",
+            "lot_attributes": {
+                "batch_id": "nfr_458dQqaveQwGSStx",
+                "product_id": "nfr_dI1JCwU6ErZrvxxz",
+                "expiry_date": {
+                    "seconds": 2261477185,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1252792894,
+                    "nanos": 356000000
+                },
+                "quantity": 58,
+                "sold_quantity": 38,
+                "mrp": 2.92
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_H45QSqPxjvPgm4fV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_hBPM9lxdL2o7tR4j",
+            "lot_attributes": {
+                "batch_id": "nfr_sRJPGZEkQ6TGc16X",
+                "product_id": "nfr_x4zhdv9SBG8M6PYT",
+                "expiry_date": {
+                    "seconds": 2518313206,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1160663449,
+                    "nanos": 356000000
+                },
+                "quantity": 67,
+                "sold_quantity": 34,
+                "mrp": 2.53
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0vEQ7B7DjPo56AYn"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_jLBrhnwgUS3vPIUY",
+            "lot_attributes": {
+                "batch_id": "nfr_lbf8Mi6zhT7Aeuae",
+                "product_id": "nfr_1bduhBUzxmnCf1ob",
+                "expiry_date": {
+                    "seconds": 2345784311,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1490515246,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 27,
+                "mrp": 2.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_65zF6XukqqmiY3vO"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_PLIx2rpk0U7cWUNP",
+            "lot_attributes": {
+                "batch_id": "nfr_vZBpHKpoU4HhEJlZ",
+                "product_id": "nfr_FWrTGUzvOqCtSdOr",
+                "expiry_date": {
+                    "seconds": 2315051534,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1503633847,
+                    "nanos": 356000000
+                },
+                "quantity": 98,
+                "sold_quantity": 13,
+                "mrp": 1.76
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GlrSQ1kxjjJT3GiA"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_A2Yi2Mi7WFOWgr0a",
+            "lot_attributes": {
+                "batch_id": "nfr_3EGkQyn1onweDsbV",
+                "product_id": "nfr_3GHsN9o0xYnJnvj6",
+                "expiry_date": {
+                    "seconds": 2612250914,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1417907857,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 37,
+                "mrp": 2.2
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SzNap4K4ZAZTFfXl"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_F5p0mW80noLEmjja",
+            "lot_attributes": {
+                "batch_id": "nfr_w0D1I3SiC0SY3c7o",
+                "product_id": "nfr_cuoVNje52ncY4wuy",
+                "expiry_date": {
+                    "seconds": 2509649576,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1543189315,
+                    "nanos": 356000000
+                },
+                "quantity": 56,
+                "sold_quantity": 34,
+                "mrp": 2.45
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_oPOq8E038BWs54fj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_w5bTPu26EtUlwlw5",
+            "lot_attributes": {
+                "batch_id": "nfr_p9Xvfr97cd7nMYui",
+                "product_id": "nfr_39LNNDXgSkQcHmjI",
+                "expiry_date": {
+                    "seconds": 2443209942,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1156737417,
+                    "nanos": 356000000
+                },
+                "quantity": 64,
+                "sold_quantity": 44,
+                "mrp": 2.88
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_B10UHioaAseXn25L"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_JkVOpRn3CSGRoFM8",
+            "lot_attributes": {
+                "batch_id": "nfr_sadSfYRwBRlRPusz",
+                "product_id": "nfr_0AD40bOv0rOfH5x5",
+                "expiry_date": {
+                    "seconds": 2376998228,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1399315183,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 31,
+                "mrp": 3.26
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0FGimIBNTQK6hYRj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_18giifpZ1naCpuqu",
+            "lot_attributes": {
+                "batch_id": "nfr_lUkAEEYj03Nc7h12",
+                "product_id": "nfr_lT8HzCNskA3LgEA5",
+                "expiry_date": {
+                    "seconds": 2407988275,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1224079291,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 22,
+                "mrp": 3.83
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6eoFQFAncEXmquLn"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_RQBQvmt5TQnJcCPd",
+            "lot_attributes": {
+                "batch_id": "nfr_PwNG0EF1uQP7b7e4",
+                "product_id": "nfr_lH17VkqF9VGpi2O6",
+                "expiry_date": {
+                    "seconds": 2498350307,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1194171851,
+                    "nanos": 356000000
+                },
+                "quantity": 60,
+                "sold_quantity": 4,
+                "mrp": 2.67
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hgH5Ok5kTH5LgkAv"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_NWUsth2CLHQaBKP2",
+            "lot_attributes": {
+                "batch_id": "nfr_8Zh2PkP2bNi8ShRE",
+                "product_id": "nfr_vkk21QNr9QrLHWkQ",
+                "expiry_date": {
+                    "seconds": 2345448688,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1509620014,
+                    "nanos": 356000000
+                },
+                "quantity": 95,
+                "sold_quantity": 24,
+                "mrp": 2.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_iDKC3KGil0A2hJiZ"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_TkspJmurAufBQb22",
+            "lot_attributes": {
+                "batch_id": "nfr_t4rLlj2aSxUcUJDr",
+                "product_id": "nfr_fqzMN1iOASJoUSQe",
+                "expiry_date": {
+                    "seconds": 2500729637,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1360887243,
+                    "nanos": 356000000
+                },
+                "quantity": 92,
+                "sold_quantity": 19,
+                "mrp": 1.8
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1yZGyGnESo9uf3WW"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_T33KKNCxLsiuOtdF",
+            "lot_attributes": {
+                "batch_id": "nfr_Kybh5qsw9q67xJev",
+                "product_id": "nfr_yYiaFGHkPOyTI5gR",
+                "expiry_date": {
+                    "seconds": 2290747345,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1484240848,
+                    "nanos": 356000000
+                },
+                "quantity": 69,
+                "sold_quantity": 13,
+                "mrp": 2.51
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9ZFeeVWlUVbeJw17"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_sA7FjUKbGmrat6hp",
+            "lot_attributes": {
+                "batch_id": "nfr_pmyFdLNU4efP86yf",
+                "product_id": "nfr_j1UVMSeosscww9aT",
+                "expiry_date": {
+                    "seconds": 2576019647,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1097603814,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 13,
+                "mrp": 2.84
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_a777u5CKCe8qsU7l"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_6isfsR1HxC9o15E0",
+            "lot_attributes": {
+                "batch_id": "nfr_78VYutbWI5RZefNz",
+                "product_id": "nfr_PbPsS4uO2uPY7aEA",
+                "expiry_date": {
+                    "seconds": 2330097168,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1215126634,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 10,
+                "mrp": 2.23
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JOT1StNW5w6iglCm"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_QDLuWh5M3rulR1Im",
+            "lot_attributes": {
+                "batch_id": "nfr_AIFiukFUdMHl1rH9",
+                "product_id": "nfr_aDNCca57nqSIBMtg",
+                "expiry_date": {
+                    "seconds": 2343816603,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1377807862,
+                    "nanos": 356000000
+                },
+                "quantity": 60,
+                "sold_quantity": 49,
+                "mrp": 2.33
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_WUUL25wuuNj2aq5w"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_c7eywe9mGNZ0TeYs",
+            "lot_attributes": {
+                "batch_id": "nfr_Bzbv7hbmwYZSrucA",
+                "product_id": "nfr_OIjKCtHwWgsFqTf9",
+                "expiry_date": {
+                    "seconds": 2393736828,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1527743502,
+                    "nanos": 356000000
+                },
+                "quantity": 77,
+                "sold_quantity": 23,
+                "mrp": 3.56
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_BipgJ0UDZXFTj93z"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_7BZnNCsN0SV1dZeU",
+            "lot_attributes": {
+                "batch_id": "nfr_d14xHPf2CVdful8X",
+                "product_id": "nfr_WZw3nFaoMLimbF0O",
+                "expiry_date": {
+                    "seconds": 2265135921,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1303978576,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 34,
+                "mrp": 2.19
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SOgpvOYfcuje6kSL"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_uYRq14F41qkhlU0e",
+            "lot_attributes": {
+                "batch_id": "nfr_xctUdwjB1qZowsbN",
+                "product_id": "nfr_ljbqnwphcernmqRO",
+                "expiry_date": {
+                    "seconds": 2530151540,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1522078855,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 45,
+                "mrp": 1.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Id5czcjYSUjzetBI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ahIbILmpZARmMPAW",
+            "lot_attributes": {
+                "batch_id": "nfr_bn9sv8FpN1Zc11HS",
+                "product_id": "nfr_W0OiDYZqg0qdrjkG",
+                "expiry_date": {
+                    "seconds": 2256802853,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1136450769,
+                    "nanos": 356000000
+                },
+                "quantity": 81,
+                "sold_quantity": 14,
+                "mrp": 2.87
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dS2W6BaplPb0K2gV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_aURvcwlp3B9TQYMo",
+            "lot_attributes": {
+                "batch_id": "nfr_cVI2JJIC6oxjl3gs",
+                "product_id": "nfr_rr4znHDemxFnkMEx",
+                "expiry_date": {
+                    "seconds": 2616649282,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1550014003,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 29,
+                "mrp": 2.21
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1HAt4S7qGXwhdlIi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_2v7Hmh59qcRhHa6D",
+            "lot_attributes": {
+                "batch_id": "nfr_HCZmVLp5Vr8F0nFC",
+                "product_id": "nfr_I4i4U4KZUns4a0m2",
+                "expiry_date": {
+                    "seconds": 2520600772,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1269945733,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 2,
+                "mrp": 3.73
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kTxziBqzTSXvLrQZ"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_YdBzQlTJWO7U4sZd",
+            "lot_attributes": {
+                "batch_id": "nfr_eyB9y0idPZR1cCg4",
+                "product_id": "nfr_9PpJmrUeA8BQQvqE",
+                "expiry_date": {
+                    "seconds": 2582474775,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1314431890,
+                    "nanos": 356000000
+                },
+                "quantity": 94,
+                "sold_quantity": 38,
+                "mrp": 1.72
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZaT4C8eBOlurDIQL"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Ee1PnTX52Yv8EELr",
+            "lot_attributes": {
+                "batch_id": "nfr_EkoVGAW8fGvfrlvt",
+                "product_id": "nfr_c5Es4rmDq3WX9Uo3",
+                "expiry_date": {
+                    "seconds": 2261498905,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1498669764,
+                    "nanos": 356000000
+                },
+                "quantity": 97,
+                "sold_quantity": 7,
+                "mrp": 3.3
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5V3KrwNxjHmzy8Qj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_A7dTHKq4zsC3o8IU",
+            "lot_attributes": {
+                "batch_id": "nfr_mWDgd4byqGxBNLQP",
+                "product_id": "nfr_PL4Uf2AO80oivf1u",
+                "expiry_date": {
+                    "seconds": 2597869712,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1551796078,
+                    "nanos": 356000000
+                },
+                "quantity": 62,
+                "sold_quantity": 10,
+                "mrp": 1.67
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_j4RSz76yLrpDoQ3O"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_k5An1tv8ieq54rDx",
+            "lot_attributes": {
+                "batch_id": "nfr_kp9gcSb86XBJ3y0q",
+                "product_id": "nfr_qKzdCRqBEFjOUiHa",
+                "expiry_date": {
+                    "seconds": 2509725959,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1370773585,
+                    "nanos": 356000000
+                },
+                "quantity": 68,
+                "sold_quantity": 47,
+                "mrp": 3.24
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kpSNpTwipBmjONYX"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_9YGYgQCOEiS8tR1I",
+            "lot_attributes": {
+                "batch_id": "nfr_hOoOr0UcW5LZdztm",
+                "product_id": "nfr_wWSFYkIpThqrESx9",
+                "expiry_date": {
+                    "seconds": 2579882958,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1387702838,
+                    "nanos": 356000000
+                },
+                "quantity": 52,
+                "sold_quantity": 25,
+                "mrp": 2.91
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_p7oF5csZtIHJLMim"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_nEVb6qCkpOJPKhYM",
+            "lot_attributes": {
+                "batch_id": "nfr_OH9seRy79sJRisgA",
+                "product_id": "nfr_XIECTPgPydjcmDOZ",
+                "expiry_date": {
+                    "seconds": 2402981961,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1250050155,
+                    "nanos": 356000000
+                },
+                "quantity": 67,
+                "sold_quantity": 24,
+                "mrp": 3.34
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nJDgMYqLm721KbDt"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_GL88BUHK1JXa9J7w",
+            "lot_attributes": {
+                "batch_id": "nfr_wzoP6OSlx4ui04jY",
+                "product_id": "nfr_W4d9yqQHFvWRESb4",
+                "expiry_date": {
+                    "seconds": 2508354851,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1127427217,
+                    "nanos": 356000000
+                },
+                "quantity": 65,
+                "sold_quantity": 3,
+                "mrp": 2.18
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_WAdDlKCu4XckinHj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_LDryZx0Fj3vdkRQ1",
+            "lot_attributes": {
+                "batch_id": "nfr_6LeoSxHDFd9HzBW8",
+                "product_id": "nfr_K0Moo8NvTGLtZfem",
+                "expiry_date": {
+                    "seconds": 2536926489,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1245791356,
+                    "nanos": 356000000
+                },
+                "quantity": 77,
+                "sold_quantity": 19,
+                "mrp": 2.78
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vQXQBV4diTK08uBr"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_CQWOd0IIYzkExuBE",
+            "lot_attributes": {
+                "batch_id": "nfr_Z0cqb1ApDKmEv3ox",
+                "product_id": "nfr_chL6ZVzRHm2g5HG0",
+                "expiry_date": {
+                    "seconds": 2298303342,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1232657260,
+                    "nanos": 356000000
+                },
+                "quantity": 98,
+                "sold_quantity": 3,
+                "mrp": 2.5
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NtdoC3vKfIKb26vi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_bKy7LAdiNqtOJQKa",
+            "lot_attributes": {
+                "batch_id": "nfr_gd842wAU1drOZGUy",
+                "product_id": "nfr_IbNwEI6g1FSAKEDH",
+                "expiry_date": {
+                    "seconds": 2270447945,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1526227393,
+                    "nanos": 356000000
+                },
+                "quantity": 65,
+                "sold_quantity": 21,
+                "mrp": 3.45
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kOPIVWJ3XdkAL6YD"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_3ZNz78JFUV7JYkGA",
+            "lot_attributes": {
+                "batch_id": "nfr_1AfjkybndSr6pMtd",
+                "product_id": "nfr_JpnLsLiq3X0HlZJ2",
+                "expiry_date": {
+                    "seconds": 2371294628,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1355535281,
+                    "nanos": 356000000
+                },
+                "quantity": 82,
+                "sold_quantity": 20,
+                "mrp": 3.0
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JR2fBtXAAYPfqbOc"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ZYG1rwsh1FLJkuzY",
+            "lot_attributes": {
+                "batch_id": "nfr_xmf3aQI0YePxniJg",
+                "product_id": "nfr_2bZcPJ1mB9b6AWI3",
+                "expiry_date": {
+                    "seconds": 2540364320,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1169329445,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 4,
+                "mrp": 3.58
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_elnQniY99zDTKRKX"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_OqDNy54IBewDg63Y",
+            "lot_attributes": {
+                "batch_id": "nfr_BtJlCVrrJPrItHEG",
+                "product_id": "nfr_EUmWIU57VP7TmV44",
+                "expiry_date": {
+                    "seconds": 2455529097,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1274811565,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 45,
+                "mrp": 2.88
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_8Kvlr75huV7Q3vfi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_liWX1h4z220Q9O3e",
+            "lot_attributes": {
+                "batch_id": "nfr_edtHEGcCrrGSeP4K",
+                "product_id": "nfr_SeRpIK6D5YfmfJGb",
+                "expiry_date": {
+                    "seconds": 2393849382,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1234636114,
+                    "nanos": 356000000
+                },
+                "quantity": 95,
+                "sold_quantity": 38,
+                "mrp": 2.08
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YIVm0WWugDSWWEh3"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_VdNB2VOht5n98sCv",
+            "lot_attributes": {
+                "batch_id": "nfr_yjh3udYsJiNsifH8",
+                "product_id": "nfr_YViF8uLgg01QUkqA",
+                "expiry_date": {
+                    "seconds": 2500672227,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1134875795,
+                    "nanos": 356000000
+                },
+                "quantity": 94,
+                "sold_quantity": 47,
+                "mrp": 3.46
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_2495QLV4q4CqHieq"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_zxNkNnpG1DiEZfwO",
+            "lot_attributes": {
+                "batch_id": "nfr_bVCWqbdkQJvJa8T8",
+                "product_id": "nfr_ds0cw74MLJDKKJh7",
+                "expiry_date": {
+                    "seconds": 2413135334,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1433735550,
+                    "nanos": 356000000
+                },
+                "quantity": 81,
+                "sold_quantity": 7,
+                "mrp": 2.42
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PqxixSLQ4Ct4BdIg"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ASoH2fLSyE2ZDjwy",
+            "lot_attributes": {
+                "batch_id": "nfr_6Kb32jn4iMacb5QO",
+                "product_id": "nfr_Whcbp3G4NuAEGT6z",
+                "expiry_date": {
+                    "seconds": 2552721028,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1366377162,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 15,
+                "mrp": 2.59
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_jkAvXwRJRgvxm3sI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_490ceL6RArbyTtzT",
+            "lot_attributes": {
+                "batch_id": "nfr_py9x7DqIqVhlKi7z",
+                "product_id": "nfr_CNeRL2sXl4eP4c6d",
+                "expiry_date": {
+                    "seconds": 2529783828,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1421662956,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 34,
+                "mrp": 2.32
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZtdXnk66FL4UCGW7"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_QLwrjtaOdmQZ942d",
+            "lot_attributes": {
+                "batch_id": "nfr_0cZKAs2gIPBovWZ5",
+                "product_id": "nfr_aT7TGSFszfq46B7a",
+                "expiry_date": {
+                    "seconds": 2354846479,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1369710705,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 22,
+                "mrp": 1.78
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fdYgNkpNFUvwVTKT"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_jaWjUooX65vBMpv7",
+            "lot_attributes": {
+                "batch_id": "nfr_9cJLiGHxDZAwIoho",
+                "product_id": "nfr_PErt5LneJPfzZiCa",
+                "expiry_date": {
+                    "seconds": 2481779210,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1349884211,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 21,
+                "mrp": 2.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_AUkgFPO6Ss22hcvJ"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_TX6eIEYD28NMnWkq",
+            "lot_attributes": {
+                "batch_id": "nfr_TRQA8kALvPxnjQNz",
+                "product_id": "nfr_sbrjtCYrubSeEus1",
+                "expiry_date": {
+                    "seconds": 2596791879,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1348784473,
+                    "nanos": 356000000
+                },
+                "quantity": 56,
+                "sold_quantity": 45,
+                "mrp": 3.48
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Q06HGe7CnDoOY0Y5"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_0UOIVBRjILsszu2D",
+            "lot_attributes": {
+                "batch_id": "nfr_avTbuIZOLNaFH2ar",
+                "product_id": "nfr_WrSnqzEaX1jvvwWE",
+                "expiry_date": {
+                    "seconds": 2336494852,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1400360645,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 34,
+                "mrp": 2.5
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5zH7cj1eeUlbV2Ln"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_6Fxi78C2olc2tZZK",
+            "lot_attributes": {
+                "batch_id": "nfr_h6wwVCkSsXnBKEkC",
+                "product_id": "nfr_ItpZrcbYmknQMKT5",
+                "expiry_date": {
+                    "seconds": 2393034577,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1537778133,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 25,
+                "mrp": 3.58
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JUtz59ttPuQnhVa0"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_7CwFM2bOXtUj6Txi",
+            "lot_attributes": {
+                "batch_id": "nfr_yQrEm8W2Y3nqbB8R",
+                "product_id": "nfr_Jeug8AB9HDvib7So",
+                "expiry_date": {
+                    "seconds": 2422352812,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1450481291,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 9,
+                "mrp": 1.84
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_VcPgjb62ivcbJJB3"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_UW0RWt7Ief7rxspk",
+            "lot_attributes": {
+                "batch_id": "nfr_uFrfPXQQm7p4G1p4",
+                "product_id": "nfr_34L5hlePRFqwXH3O",
+                "expiry_date": {
+                    "seconds": 2242347314,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1250537691,
+                    "nanos": 356000000
+                },
+                "quantity": 54,
+                "sold_quantity": 31,
+                "mrp": 2.91
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_zDtk0Hi2L9RVRxRq"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_tPH4JJBDG8M6ZBAz",
+            "lot_attributes": {
+                "batch_id": "nfr_3wVYMDliRn0kZ6xT",
+                "product_id": "nfr_q6dsgdb50ezjpdS1",
+                "expiry_date": {
+                    "seconds": 2295579212,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1240752719,
+                    "nanos": 356000000
+                },
+                "quantity": 59,
+                "sold_quantity": 29,
+                "mrp": 2.26
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9zf3sKcE5aumL5CM"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_HUBuOxm1wcram921",
+            "lot_attributes": {
+                "batch_id": "nfr_1xQLCzKRX7ECYFAD",
+                "product_id": "nfr_3f6KphO5ysTR7S77",
+                "expiry_date": {
+                    "seconds": 2544716630,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1107372342,
+                    "nanos": 356000000
+                },
+                "quantity": 82,
+                "sold_quantity": 46,
+                "mrp": 2.39
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TMOktF6mh16bFt1E"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_rX6uRsl5HKTwS7Lv",
+            "lot_attributes": {
+                "batch_id": "nfr_3C80SPg5lo1MMNtX",
+                "product_id": "nfr_r3FrVPCaf518kFZ3",
+                "expiry_date": {
+                    "seconds": 2331588495,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1389117376,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 22,
+                "mrp": 1.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6J3CswQrla7H1Bbx"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_AtINITiygDYsVj5f",
+            "lot_attributes": {
+                "batch_id": "nfr_ntkhWvLuhDOhvvVM",
+                "product_id": "nfr_8ym4kNMEqRbEPk1B",
+                "expiry_date": {
+                    "seconds": 2405637018,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1149604206,
+                    "nanos": 356000000
+                },
+                "quantity": 88,
+                "sold_quantity": 22,
+                "mrp": 3.68
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fH3NMCEUyzWo0Q6h"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_JFgMcrzPB9E2dPsO",
+            "lot_attributes": {
+                "batch_id": "nfr_SGB0a5f4RFVWzHbk",
+                "product_id": "nfr_HQ2muCHbQgwhRbz3",
+                "expiry_date": {
+                    "seconds": 2299683498,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1397757908,
+                    "nanos": 356000000
+                },
+                "quantity": 55,
+                "sold_quantity": 25,
+                "mrp": 3.77
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dQrBaY0s8ZNtEJyi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_t3xRNcVC5gmZh8pO",
+            "lot_attributes": {
+                "batch_id": "nfr_1cvjBtTXgUdI7hnH",
+                "product_id": "nfr_eGTOTBipfErojBr6",
+                "expiry_date": {
+                    "seconds": 2338073664,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1254962312,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 14,
+                "mrp": 3.21
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tuVzQPee1nrfRsnO"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_gYtbMQGc4eKV4FwQ",
+            "lot_attributes": {
+                "batch_id": "nfr_EDzwwTb35CvnQcNj",
+                "product_id": "nfr_sY9bQuNJ1UDpVnTS",
+                "expiry_date": {
+                    "seconds": 2321859105,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1090093589,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 39,
+                "mrp": 3.36
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kM9OZP45YvrrnvTY"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_VH5FUuEM413HA4SJ",
+            "lot_attributes": {
+                "batch_id": "nfr_CIsIh5i1IFcu8VBy",
+                "product_id": "nfr_WEe5MtaiRVoUsFzo",
+                "expiry_date": {
+                    "seconds": 2242941317,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1572168786,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 42,
+                "mrp": 1.68
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4ZDQUEBht09LZoWT"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Kxe6Jil5IFSDD3lV",
+            "lot_attributes": {
+                "batch_id": "nfr_eCscuqJOAK6G8gyu",
+                "product_id": "nfr_UuUcdPBx4FIOTC69",
+                "expiry_date": {
+                    "seconds": 2483475545,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1250818933,
+                    "nanos": 356000000
+                },
+                "quantity": 90,
+                "sold_quantity": 36,
+                "mrp": 2.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4NzBwZRtlNbeFea8"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_9mzBvlFoGLIozehX",
+            "lot_attributes": {
+                "batch_id": "nfr_BFcL4pPb6k3dAeZ4",
+                "product_id": "nfr_xsCP4ux9Kq0i93BC",
+                "expiry_date": {
+                    "seconds": 2526473004,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1341277173,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 8,
+                "mrp": 3.49
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tR1BJCA1umcAR5OB"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_CZ1l21IcawRp1C88",
+            "lot_attributes": {
+                "batch_id": "nfr_ptPfNTcFmEKX3Eff",
+                "product_id": "nfr_PK0NRfTWa0Aw8nU5",
+                "expiry_date": {
+                    "seconds": 2614245848,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1269926950,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 26,
+                "mrp": 2.54
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_agHbhds0dplBvObU"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Q8UK08ZMMo6PgO60",
+            "lot_attributes": {
+                "batch_id": "nfr_11NU4Fo1IByYTV6i",
+                "product_id": "nfr_l3d6pOQXTzAxoZPO",
+                "expiry_date": {
+                    "seconds": 2393807342,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1118108864,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 10,
+                "mrp": 2.35
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_AzzdPWWdXpaWSKwj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_WV5yKqQSBki4c0rZ",
+            "lot_attributes": {
+                "batch_id": "nfr_zouwwZsABHpoVTf0",
+                "product_id": "nfr_0mgXfs7Jaa9sTtXw",
+                "expiry_date": {
+                    "seconds": 2239622427,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1412382092,
+                    "nanos": 356000000
+                },
+                "quantity": 54,
+                "sold_quantity": 28,
+                "mrp": 2.56
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wdJBEnx72md12lmo"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_IGXWu3K8hi8cdAtX",
+            "lot_attributes": {
+                "batch_id": "nfr_9YMmGLLewEo48Dni",
+                "product_id": "nfr_Q2vL8NQ4PFOOaXyB",
+                "expiry_date": {
+                    "seconds": 2230946759,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1372273780,
+                    "nanos": 356000000
+                },
+                "quantity": 97,
+                "sold_quantity": 35,
+                "mrp": 2.64
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_uwVve1nLO6pLQHRP"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_sUn3r8H1w4255pux",
+            "lot_attributes": {
+                "batch_id": "nfr_lwcbpFOhIPBvb9pR",
+                "product_id": "nfr_JDwj1IVqKU7yytZY",
+                "expiry_date": {
+                    "seconds": 2248343482,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1485368261,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 11,
+                "mrp": 1.66
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_FImfdlbmpJOb8f9p"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_YmZsAv4Zf4qXInVa",
+            "lot_attributes": {
+                "batch_id": "nfr_kSx6ihcypMTG9DS7",
+                "product_id": "nfr_jVJDixQDKt9SPEjn",
+                "expiry_date": {
+                    "seconds": 2342942210,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1178541935,
+                    "nanos": 356000000
+                },
+                "quantity": 61,
+                "sold_quantity": 2,
+                "mrp": 2.47
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aprs08jgQTxfpSu4"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_j3XdKVy1oEuPYZ6C",
+            "lot_attributes": {
+                "batch_id": "nfr_9flnBd17xGQdSbI1",
+                "product_id": "nfr_0bKcn0lyWUJTjudF",
+                "expiry_date": {
+                    "seconds": 2496629058,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1391571118,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 49,
+                "mrp": 3.59
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_W5QydIN97DV9tPBc"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_mHKeSwdHPi3RNkSV",
+            "lot_attributes": {
+                "batch_id": "nfr_hYRsNm2oOVzNIfmd",
+                "product_id": "nfr_oP2v6QpjozDqaHpz",
+                "expiry_date": {
+                    "seconds": 2451907745,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1375047291,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 27,
+                "mrp": 1.74
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dhsgmGi6WHTZiTk3"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_9SBggG9ZVwbtKWMp",
+            "lot_attributes": {
+                "batch_id": "nfr_DuWocNrPAZp6JBdO",
+                "product_id": "nfr_5pYe7yO1yrzoiDRe",
+                "expiry_date": {
+                    "seconds": 2416368190,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1402359030,
+                    "nanos": 356000000
+                },
+                "quantity": 60,
+                "sold_quantity": 18,
+                "mrp": 2.51
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_SMHOmWaFe03fMuH0"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_WIyNXKgQNXjXs3qj",
+            "lot_attributes": {
+                "batch_id": "nfr_90xDhL4KLkYMkoAP",
+                "product_id": "nfr_El5QxI8yCuOEOwvV",
+                "expiry_date": {
+                    "seconds": 2482496744,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1354935466,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 21,
+                "mrp": 1.75
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bsGrKWVwvz2ZeF8m"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_kNzk5sgtqWCqq3uT",
+            "lot_attributes": {
+                "batch_id": "nfr_Cct9HPh4huGxF4nn",
+                "product_id": "nfr_CDY3TwKJQ8uCenOD",
+                "expiry_date": {
+                    "seconds": 2396050202,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1447416844,
+                    "nanos": 356000000
+                },
+                "quantity": 68,
+                "sold_quantity": 45,
+                "mrp": 1.84
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tQM3M1JjdwDNStRV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_5dfiz5xfLPVCUAxc",
+            "lot_attributes": {
+                "batch_id": "nfr_bi0rnaSh8Sa1BOYh",
+                "product_id": "nfr_YsMgYxoK1LxuyI5g",
+                "expiry_date": {
+                    "seconds": 2399982289,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1360214982,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 27,
+                "mrp": 3.17
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_QFPDgH2yXbBd50G8"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_HsxIDQoFrGiHCWHh",
+            "lot_attributes": {
+                "batch_id": "nfr_lTHjUns4LKZLk982",
+                "product_id": "nfr_1Efi3bPyDmVEVA8o",
+                "expiry_date": {
+                    "seconds": 2299599683,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1197385126,
+                    "nanos": 356000000
+                },
+                "quantity": 72,
+                "sold_quantity": 27,
+                "mrp": 3.82
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_C8d6uLuZBoHdzDHB"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_L48cWjxUdyXAhXKT",
+            "lot_attributes": {
+                "batch_id": "nfr_pMHi8jgRrNuipwh2",
+                "product_id": "nfr_CWdFZXfAgoLRGFgP",
+                "expiry_date": {
+                    "seconds": 2292776995,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1330405492,
+                    "nanos": 356000000
+                },
+                "quantity": 75,
+                "sold_quantity": 41,
+                "mrp": 1.79
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1F5a1mhrWx8mv51h"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_DYqV0HWCYm2dQWEa",
+            "lot_attributes": {
+                "batch_id": "nfr_TbgWaP1wWy6gmQD9",
+                "product_id": "nfr_kky277AkYIjjurFW",
+                "expiry_date": {
+                    "seconds": 2470110180,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1101728162,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 3,
+                "mrp": 3.26
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_eKQRNE6kH9laSWjn"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_SQ74LvLsb2DOwgHs",
+            "lot_attributes": {
+                "batch_id": "nfr_mVGl5YuKgI3BHc6k",
+                "product_id": "nfr_YUkxvf9AccteQzPv",
+                "expiry_date": {
+                    "seconds": 2228631294,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1482517218,
+                    "nanos": 356000000
+                },
+                "quantity": 55,
+                "sold_quantity": 28,
+                "mrp": 1.6
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_n4CeiBcCnF0uj9Et"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_RaJDHm467RZZMDuD",
+            "lot_attributes": {
+                "batch_id": "nfr_gIVRCcSneV8qU0Hi",
+                "product_id": "nfr_sEWr1uzcpDIwZfIz",
+                "expiry_date": {
+                    "seconds": 2445505300,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1097587297,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 14,
+                "mrp": 3.46
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_DmMYGaCGuYUbGoJC"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_4a2cuXP8UyF1q2cM",
+            "lot_attributes": {
+                "batch_id": "nfr_MRe7utSaPyZITof0",
+                "product_id": "nfr_PKohom91xDMzia12",
+                "expiry_date": {
+                    "seconds": 2350018568,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1437180186,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 28,
+                "mrp": 3.3
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lcqpqD0hxJMLXtZD"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_14GX1ITYaiRbF3sr",
+            "lot_attributes": {
+                "batch_id": "nfr_WjJnTTwq42UXWlMC",
+                "product_id": "nfr_lVA6D5tYpFSD7yeA",
+                "expiry_date": {
+                    "seconds": 2385683203,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1549536117,
+                    "nanos": 356000000
+                },
+                "quantity": 66,
+                "sold_quantity": 38,
+                "mrp": 2.1
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hG8fPB4BRMX8iFmK"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ihcbb96xfNE92P51",
+            "lot_attributes": {
+                "batch_id": "nfr_myEEsVHrEIhkg5m2",
+                "product_id": "nfr_WUdTSEdynhEUixHC",
+                "expiry_date": {
+                    "seconds": 2603513812,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1535567724,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 15,
+                "mrp": 3.29
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_EixvJbSIXkVstxu9"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_BGEXUwGk1vtWwQJE",
+            "lot_attributes": {
+                "batch_id": "nfr_73ruYjn6cLwiM12g",
+                "product_id": "nfr_jn20xlTDV6JSooMd",
+                "expiry_date": {
+                    "seconds": 2512067040,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1562026017,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 4,
+                "mrp": 2.54
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lVULyPZ0XTPfW32l"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_HEkWHQ9c81hS3Cvj",
+            "lot_attributes": {
+                "batch_id": "nfr_nUvCYaWA8GO3Mu45",
+                "product_id": "nfr_GxkAh2vMqafAOMWk",
+                "expiry_date": {
+                    "seconds": 2291229498,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1254049494,
+                    "nanos": 356000000
+                },
+                "quantity": 57,
+                "sold_quantity": 47,
+                "mrp": 2.36
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ZgNonxWBHTrdWR6t"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_jtmsTxUi5w9nKKMW",
+            "lot_attributes": {
+                "batch_id": "nfr_v8iLiwTCFCX9uIAi",
+                "product_id": "nfr_92Qt2rOhGRoOWVOo",
+                "expiry_date": {
+                    "seconds": 2331050286,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1334400480,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 49,
+                "mrp": 2.54
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YfoPQ6CoC7YMxrn6"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_wOCAbfPRBRsMSPaQ",
+            "lot_attributes": {
+                "batch_id": "nfr_YWqT6Rixp3Ubozbp",
+                "product_id": "nfr_9WleWPr23AYKUTdm",
+                "expiry_date": {
+                    "seconds": 2340694689,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1465997396,
+                    "nanos": 356000000
+                },
+                "quantity": 95,
+                "sold_quantity": 41,
+                "mrp": 2.9
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GM2PT92Iu8iJHOWb"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_H88NUdnyz3eo6yFs",
+            "lot_attributes": {
+                "batch_id": "nfr_318em9gcN868BjWX",
+                "product_id": "nfr_0eO2IZc9F0UAFgjZ",
+                "expiry_date": {
+                    "seconds": 2553669700,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1373425472,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 35,
+                "mrp": 3.5
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pOUztl1mlyU6yH29"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_P1lICIjEpgX1nEcG",
+            "lot_attributes": {
+                "batch_id": "nfr_71gil5ZvgkEEC9kn",
+                "product_id": "nfr_SwZATt8CnIblEM1t",
+                "expiry_date": {
+                    "seconds": 2426465900,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1452937728,
+                    "nanos": 356000000
+                },
+                "quantity": 90,
+                "sold_quantity": 31,
+                "mrp": 1.8
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hh9gBQXUOu0ByKqT"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_QvY1mV8A0S1GhOGy",
+            "lot_attributes": {
+                "batch_id": "nfr_jGQaz7EnPeMVHOuj",
+                "product_id": "nfr_cOVs5QRgWFIPFqqf",
+                "expiry_date": {
+                    "seconds": 2233150319,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1557010341,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 34,
+                "mrp": 2.03
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_h9CTbEjJIolr42s3"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_LUULIxHb5ywmqudu",
+            "lot_attributes": {
+                "batch_id": "nfr_Fybnw9KbLmiWS6wB",
+                "product_id": "nfr_Tutkwx0NKXVKzKJS",
+                "expiry_date": {
+                    "seconds": 2418842195,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1108383630,
+                    "nanos": 356000000
+                },
+                "quantity": 65,
+                "sold_quantity": 9,
+                "mrp": 1.97
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_hOLx6pvSPHTOsSVq"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_0USppIUNGqLP1217",
+            "lot_attributes": {
+                "batch_id": "nfr_DR0rVnnZmtE6WBm8",
+                "product_id": "nfr_1Qe5vWEo9RjfDG8N",
+                "expiry_date": {
+                    "seconds": 2601540694,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1372716748,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 14,
+                "mrp": 1.88
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_t4jD4Wd6416Hcv5b"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_S4ZdPdJOio3OFsWh",
+            "lot_attributes": {
+                "batch_id": "nfr_vx9Y3OO3OnjkHMfa",
+                "product_id": "nfr_wXfEpGvIBUbNVRcB",
+                "expiry_date": {
+                    "seconds": 2378810005,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1280465866,
+                    "nanos": 356000000
+                },
+                "quantity": 97,
+                "sold_quantity": 14,
+                "mrp": 1.89
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nsagKGtJ53QQ9dXl"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_FeuJlItEzl8lyyGC",
+            "lot_attributes": {
+                "batch_id": "nfr_udFS9ia9ej6C7KBq",
+                "product_id": "nfr_8b3lYQpGC6dPUJtN",
+                "expiry_date": {
+                    "seconds": 2273007124,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1427512086,
+                    "nanos": 356000000
+                },
+                "quantity": 68,
+                "sold_quantity": 0,
+                "mrp": 2.0
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aPEs4nyaX2lFY9AD"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_jswJq52bdIYFKwhs",
+            "lot_attributes": {
+                "batch_id": "nfr_xQfSyt9vorkZ8izc",
+                "product_id": "nfr_ot8YgPV1l7neGHpD",
+                "expiry_date": {
+                    "seconds": 2257175584,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1375325113,
+                    "nanos": 356000000
+                },
+                "quantity": 82,
+                "sold_quantity": 2,
+                "mrp": 1.78
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_IHJILn6gZZnh5sfM"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_GUaUYqNz38DmXAkb",
+            "lot_attributes": {
+                "batch_id": "nfr_pbzCA1aQpuqqchZ6",
+                "product_id": "nfr_7TJqklnf13FB8IGW",
+                "expiry_date": {
+                    "seconds": 2369218855,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1302800359,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 31,
+                "mrp": 2.74
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_582b1rukZc5NTDXX"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_7K9ERWkalFw0tZwB",
+            "lot_attributes": {
+                "batch_id": "nfr_iIf860miREZLQaCS",
+                "product_id": "nfr_JnZOiYaG4sqJY3Av",
+                "expiry_date": {
+                    "seconds": 2381307200,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1470847099,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 23,
+                "mrp": 3.53
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_XtUGIpvYk88ENmBD"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_8DZlfBkI9Xh1lRIc",
+            "lot_attributes": {
+                "batch_id": "nfr_TyT6bEZDyrk0d7Tg",
+                "product_id": "nfr_83hysKYEV1eVLGkZ",
+                "expiry_date": {
+                    "seconds": 2413991512,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1490672244,
+                    "nanos": 356000000
+                },
+                "quantity": 101,
+                "sold_quantity": 32,
+                "mrp": 3.68
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nu9A8SKwXeuuSPsk"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_1MSHFFI3NIAZg25E",
+            "lot_attributes": {
+                "batch_id": "nfr_k2sGItY7mEVnTwce",
+                "product_id": "nfr_IL4W6HtefNVkv1SH",
+                "expiry_date": {
+                    "seconds": 2254476622,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1507067466,
+                    "nanos": 356000000
+                },
+                "quantity": 89,
+                "sold_quantity": 5,
+                "mrp": 2.42
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_BcZaC58oa2UQlJAA"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_TXhBqeuQjF5WyFQt",
+            "lot_attributes": {
+                "batch_id": "nfr_y7VSLNiyibSaO7MA",
+                "product_id": "nfr_630tCBtj36ufgYDZ",
+                "expiry_date": {
+                    "seconds": 2584832241,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1326796981,
+                    "nanos": 356000000
+                },
+                "quantity": 62,
+                "sold_quantity": 6,
+                "mrp": 1.98
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_gUlAH2w3wIo1fHm7"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ghuIuc4EE7FW77pR",
+            "lot_attributes": {
+                "batch_id": "nfr_eObM9OHjjV8m5DfS",
+                "product_id": "nfr_gJCQjEsQ6uT71C2f",
+                "expiry_date": {
+                    "seconds": 2231739033,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1448836357,
+                    "nanos": 356000000
+                },
+                "quantity": 90,
+                "sold_quantity": 37,
+                "mrp": 2.47
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_eJS3VlonrX2TywJl"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_5N8S1NSmPOqZJ0SE",
+            "lot_attributes": {
+                "batch_id": "nfr_5hC4lETSfVnkHs1I",
+                "product_id": "nfr_RHP6jt9OCGtwWZxy",
+                "expiry_date": {
+                    "seconds": 2574128813,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1433977901,
+                    "nanos": 356000000
+                },
+                "quantity": 74,
+                "sold_quantity": 14,
+                "mrp": 3.77
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5sijekWSDDNWCR5g"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_s8wB2i0V3avHTarN",
+            "lot_attributes": {
+                "batch_id": "nfr_zwZs2MZ5DQFpD4ID",
+                "product_id": "nfr_eQXfD7h69ynpO5o9",
+                "expiry_date": {
+                    "seconds": 2592162823,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1136132095,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 22,
+                "mrp": 3.83
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pX37xMmY44hZkZ3x"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_3CfPoffu35e12u91",
+            "lot_attributes": {
+                "batch_id": "nfr_2QHd2MfzWdZnYRyF",
+                "product_id": "nfr_6ikScs6JXmNNNLJl",
+                "expiry_date": {
+                    "seconds": 2604089950,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1197118593,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 11,
+                "mrp": 3.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Z2Di2cr3WrkZjXrI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_L3v9K9imzCpq81I6",
+            "lot_attributes": {
+                "batch_id": "nfr_sYXcmQioQwWBRYqK",
+                "product_id": "nfr_85HGHmzBhwweO8LG",
+                "expiry_date": {
+                    "seconds": 2276031613,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1113901757,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 3,
+                "mrp": 1.75
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lafwMLRDUeztVo8W"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_XpN1iiZAG0SPldXq",
+            "lot_attributes": {
+                "batch_id": "nfr_t0TZSaFjFKfLSGWM",
+                "product_id": "nfr_9ltlXm9zHG8uYzVs",
+                "expiry_date": {
+                    "seconds": 2613104996,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1502543467,
+                    "nanos": 356000000
+                },
+                "quantity": 83,
+                "sold_quantity": 48,
+                "mrp": 2.85
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_HfIhwMAKCE8iabhv"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_pMRoFRwsaXQ3m9py",
+            "lot_attributes": {
+                "batch_id": "nfr_HfUIqFj6oblZXXwu",
+                "product_id": "nfr_vHSmzKpYvXHRGWPh",
+                "expiry_date": {
+                    "seconds": 2398489258,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1509240566,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 19,
+                "mrp": 2.36
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_UrQJYFi77ia9ajFs"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_wCFNzEjGfhW0i2nD",
+            "lot_attributes": {
+                "batch_id": "nfr_VnkZv9nvfE5DBRiX",
+                "product_id": "nfr_ap1fYzHaT1MWLrX7",
+                "expiry_date": {
+                    "seconds": 2248280192,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1262417197,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 33,
+                "mrp": 2.11
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_YWVIOoOGnsRfEGQK"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_00n3J8FA6mnXnli6",
+            "lot_attributes": {
+                "batch_id": "nfr_IqHGHZJwvJtuESqT",
+                "product_id": "nfr_XBKD5vOIJQG7FwCx",
+                "expiry_date": {
+                    "seconds": 2263315073,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1150558034,
+                    "nanos": 356000000
+                },
+                "quantity": 86,
+                "sold_quantity": 32,
+                "mrp": 1.65
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5QMeltmbWnFpvEm5"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_O3YJKQZunOAzIIYh",
+            "lot_attributes": {
+                "batch_id": "nfr_seSrrLft0CgJ1YDH",
+                "product_id": "nfr_t7KbrChFFN1PRooa",
+                "expiry_date": {
+                    "seconds": 2480003245,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1328400567,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 24,
+                "mrp": 2.0
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_20t8r7sBrYxYpMxH"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_nwZtBM4PDo8L9yPf",
+            "lot_attributes": {
+                "batch_id": "nfr_UrtBOW2uu1DNtLDY",
+                "product_id": "nfr_GXytsEKCjLLGGkvh",
+                "expiry_date": {
+                    "seconds": 2589618322,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1239999011,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 42,
+                "mrp": 3.33
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bjx9bqjcn9NPov6R"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_V47SMQ2P5udk1qVF",
+            "lot_attributes": {
+                "batch_id": "nfr_3ydTwTGmtlbZFX6z",
+                "product_id": "nfr_seNnzUGk7XSMonWB",
+                "expiry_date": {
+                    "seconds": 2352984280,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1242493829,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 30,
+                "mrp": 2.57
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_MQHxYdAvCU9lIqyY"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ZQ3eWEPtOEyIAuls",
+            "lot_attributes": {
+                "batch_id": "nfr_ShyKmTO26ERyajMi",
+                "product_id": "nfr_3TiXoRtgyhckYc3o",
+                "expiry_date": {
+                    "seconds": 2410844367,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1196729201,
+                    "nanos": 356000000
+                },
+                "quantity": 65,
+                "sold_quantity": 13,
+                "mrp": 2.31
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_7TaQn6UeKz20qHDV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_hhCoHEauyHqGOu4n",
+            "lot_attributes": {
+                "batch_id": "nfr_Bh0brIoZU7wassN3",
+                "product_id": "nfr_sq6FY5YeWg7qYTPz",
+                "expiry_date": {
+                    "seconds": 2314744506,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1116283340,
+                    "nanos": 356000000
+                },
+                "quantity": 94,
+                "sold_quantity": 12,
+                "mrp": 2.64
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_KI8ZlQKD37qBvhp4"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_gYYkYvnHUIXlFTds",
+            "lot_attributes": {
+                "batch_id": "nfr_lwqrgA1nQMxoMn1U",
+                "product_id": "nfr_qtzHSe93TmTnkK0l",
+                "expiry_date": {
+                    "seconds": 2391664674,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1144951846,
+                    "nanos": 356000000
+                },
+                "quantity": 56,
+                "sold_quantity": 32,
+                "mrp": 2.49
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_cBCMhrWTTGSHlHe8"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_p34b1me576Zy97Cx",
+            "lot_attributes": {
+                "batch_id": "nfr_ukD06V74pfTu6zJH",
+                "product_id": "nfr_JqakPYYtIifPGnWd",
+                "expiry_date": {
+                    "seconds": 2550506708,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1222012669,
+                    "nanos": 356000000
+                },
+                "quantity": 89,
+                "sold_quantity": 9,
+                "mrp": 2.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rv9qR9wTY7z8GQf8"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_r0BDrunCRckAOXXQ",
+            "lot_attributes": {
+                "batch_id": "nfr_pof1N7x8Lfy4WMYY",
+                "product_id": "nfr_33HxPzf8Jwp8cTWG",
+                "expiry_date": {
+                    "seconds": 2565372780,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1321473505,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 23,
+                "mrp": 2.08
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4MkLrSy1ex6LvzYP"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ppmgp0fuPxzpT0Uc",
+            "lot_attributes": {
+                "batch_id": "nfr_wMU6YmM0f3hszDOM",
+                "product_id": "nfr_WwmiNvHo0EdceFqk",
+                "expiry_date": {
+                    "seconds": 2272869787,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1146761292,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 36,
+                "mrp": 2.26
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_8eMeaaVhrOXF6KyK"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_IU5mTcFhYFsNI0Vx",
+            "lot_attributes": {
+                "batch_id": "nfr_vL5WagEqjLta9Li2",
+                "product_id": "nfr_dy3AiWzPivFsWo90",
+                "expiry_date": {
+                    "seconds": 2229024751,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1201944443,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 50,
+                "mrp": 2.33
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_iOVoBJGLUomvZSGW"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_duRcwvhEdupBtNZo",
+            "lot_attributes": {
+                "batch_id": "nfr_DCQzMhDIY97FNoeT",
+                "product_id": "nfr_qEuN5jin5lrC8Vin",
+                "expiry_date": {
+                    "seconds": 2488385429,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1185261829,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 22,
+                "mrp": 2.44
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_3AgnMEnZcGqZBQpd"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_6avnu8b4dZL4G8ky",
+            "lot_attributes": {
+                "batch_id": "nfr_tRcd0kGeiJrhEUFh",
+                "product_id": "nfr_JvS5EIFAywFLr1NI",
+                "expiry_date": {
+                    "seconds": 2455096394,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1315840106,
+                    "nanos": 356000000
+                },
+                "quantity": 83,
+                "sold_quantity": 6,
+                "mrp": 2.47
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_fMXnC7AWKeR29dfb"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Do92mJ6lujrWF9JY",
+            "lot_attributes": {
+                "batch_id": "nfr_dbxPp3oOkE54tkMn",
+                "product_id": "nfr_3nF52o4sqPDVBjxw",
+                "expiry_date": {
+                    "seconds": 2601712423,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1098014424,
+                    "nanos": 356000000
+                },
+                "quantity": 64,
+                "sold_quantity": 5,
+                "mrp": 2.01
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_g54SEYcozrfW1czO"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_7q6A58CZQXvw1qba",
+            "lot_attributes": {
+                "batch_id": "nfr_8k73OIGFJdSfGTSs",
+                "product_id": "nfr_b6R9tu7H2isacBVK",
+                "expiry_date": {
+                    "seconds": 2542953508,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1354009470,
+                    "nanos": 356000000
+                },
+                "quantity": 94,
+                "sold_quantity": 40,
+                "mrp": 3.39
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RZ3oL37PRn9tfm7i"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_wNk1MxAyXZKEC1bg",
+            "lot_attributes": {
+                "batch_id": "nfr_pxFKvZdk9tXWQgjl",
+                "product_id": "nfr_tfHlRoC56Y8rX5xz",
+                "expiry_date": {
+                    "seconds": 2594231511,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1533782954,
+                    "nanos": 356000000
+                },
+                "quantity": 60,
+                "sold_quantity": 18,
+                "mrp": 3.09
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5RiAXCnrhm80NtoR"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_M8mIPEA204mECHfO",
+            "lot_attributes": {
+                "batch_id": "nfr_pDvPQgnE9raXPoJL",
+                "product_id": "nfr_qlPD9doQ9mWcvKsV",
+                "expiry_date": {
+                    "seconds": 2569802952,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1264146108,
+                    "nanos": 356000000
+                },
+                "quantity": 89,
+                "sold_quantity": 1,
+                "mrp": 2.32
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_aiEqwnfYJITshoXa"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_9rqcF1h2RzfpXbBB",
+            "lot_attributes": {
+                "batch_id": "nfr_EasMjNAZdp0XPzeY",
+                "product_id": "nfr_2cBsqALl1Cc5aBCT",
+                "expiry_date": {
+                    "seconds": 2413641904,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1118423403,
+                    "nanos": 356000000
+                },
+                "quantity": 74,
+                "sold_quantity": 8,
+                "mrp": 3.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_dffI57r8H3uZWei6"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_na4ZeRFtzSH5O7bI",
+            "lot_attributes": {
+                "batch_id": "nfr_U0upppjK5EBuu93I",
+                "product_id": "nfr_uRPyZWjgpw9qsYdh",
+                "expiry_date": {
+                    "seconds": 2382074356,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1181337867,
+                    "nanos": 356000000
+                },
+                "quantity": 86,
+                "sold_quantity": 4,
+                "mrp": 2.26
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nh8C8VRae3Cn6KCz"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_5kQsjy198zTqmGY2",
+            "lot_attributes": {
+                "batch_id": "nfr_3nqML9ziyqbc2Ofr",
+                "product_id": "nfr_D7MJQj3LDpAwi7nU",
+                "expiry_date": {
+                    "seconds": 2601117803,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1209593276,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 29,
+                "mrp": 3.63
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_DkKl8Aj9W4iR7Sbj"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Yt5yRlpwyPaCEdwK",
+            "lot_attributes": {
+                "batch_id": "nfr_3quvvCOoXqfeRTJF",
+                "product_id": "nfr_GWHxgCNQFYffneZQ",
+                "expiry_date": {
+                    "seconds": 2237534462,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1240269032,
+                    "nanos": 356000000
+                },
+                "quantity": 98,
+                "sold_quantity": 4,
+                "mrp": 2.76
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_o9GuxwSCbVbbJmz9"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_zuwrpGTmixjuda4E",
+            "lot_attributes": {
+                "batch_id": "nfr_6S8N3cVgrOe4ABFB",
+                "product_id": "nfr_jxBsNxTwETUA5HHx",
+                "expiry_date": {
+                    "seconds": 2462786307,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1432360396,
+                    "nanos": 356000000
+                },
+                "quantity": 82,
+                "sold_quantity": 48,
+                "mrp": 2.04
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TJPJnkyTIjLEsmnW"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_47ze2E4pemj1bWW9",
+            "lot_attributes": {
+                "batch_id": "nfr_HrVeHQOg1ixpkljw",
+                "product_id": "nfr_U55k8ZMr79bBxfZF",
+                "expiry_date": {
+                    "seconds": 2323556707,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1413993248,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 37,
+                "mrp": 2.0
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Q2nISvPgAhQms5TS"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_F3XSdE7OHDVgro5t",
+            "lot_attributes": {
+                "batch_id": "nfr_ctb2RnEVQRMjBT5c",
+                "product_id": "nfr_fArfrFaWriUcBKx3",
+                "expiry_date": {
+                    "seconds": 2308443399,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1377799017,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 32,
+                "mrp": 1.71
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wZlYXqDW6xeuVpW5"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_3XxWAoODwa73e6Yz",
+            "lot_attributes": {
+                "batch_id": "nfr_czDAX0fDaeOApVIK",
+                "product_id": "nfr_zFQ6w5P8uQf9p21e",
+                "expiry_date": {
+                    "seconds": 2497909306,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1484047953,
+                    "nanos": 356000000
+                },
+                "quantity": 59,
+                "sold_quantity": 48,
+                "mrp": 2.16
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_RAOPhyveXhZqLK2M"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_0pCO4h6NAuEnlxiF",
+            "lot_attributes": {
+                "batch_id": "nfr_J4ww9jgjqegvXWgg",
+                "product_id": "nfr_0dBR5sAma5ClqleD",
+                "expiry_date": {
+                    "seconds": 2311023870,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1524528351,
+                    "nanos": 356000000
+                },
+                "quantity": 89,
+                "sold_quantity": 9,
+                "mrp": 1.55
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vuhYfYPkw0haajgu"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_XgwbQNCRI3U98c1K",
+            "lot_attributes": {
+                "batch_id": "nfr_SjaMPhDR4zrJdK1g",
+                "product_id": "nfr_DYE2ZktaoEsUzEFv",
+                "expiry_date": {
+                    "seconds": 2250505816,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1210045081,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 27,
+                "mrp": 1.75
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_9NAt2rPr8jk4DiFM"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_cCGUBueTYYav0i0B",
+            "lot_attributes": {
+                "batch_id": "nfr_qWS4RK4cMBkt7M7B",
+                "product_id": "nfr_BDegMmYG6gbKKyEJ",
+                "expiry_date": {
+                    "seconds": 2542835491,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1296923835,
+                    "nanos": 356000000
+                },
+                "quantity": 57,
+                "sold_quantity": 35,
+                "mrp": 1.64
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_yGI5FDHPm86aq81i"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_I0fyaXoOphypN9A0",
+            "lot_attributes": {
+                "batch_id": "nfr_2GKbjlSRzAyTky9C",
+                "product_id": "nfr_iqBT7zApiZQiQuuy",
+                "expiry_date": {
+                    "seconds": 2399644415,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1545241124,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 39,
+                "mrp": 3.06
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_wC5QU3unSHmSRsWc"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_PiUfvDZ7piWr9mha",
+            "lot_attributes": {
+                "batch_id": "nfr_YBsRCJfKJPOuoXXQ",
+                "product_id": "nfr_qBXpheVGIfAXow6X",
+                "expiry_date": {
+                    "seconds": 2467554352,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1458010089,
+                    "nanos": 356000000
+                },
+                "quantity": 54,
+                "sold_quantity": 44,
+                "mrp": 1.94
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Xzb9Gx2N7wF7Wzvk"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_tQP5R5PSgPHUGFz2",
+            "lot_attributes": {
+                "batch_id": "nfr_NbCeYYqdNkMVShxl",
+                "product_id": "nfr_dinur7xBbRBq09wi",
+                "expiry_date": {
+                    "seconds": 2576865378,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1586253510,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 36,
+                "mrp": 1.9
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Bx2Ze5yHFBpBAUkF"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_JShwz9oQ7QwFoFVD",
+            "lot_attributes": {
+                "batch_id": "nfr_mpWf49nFOQjy78ZY",
+                "product_id": "nfr_7m5HQoCjzj8TLNq4",
+                "expiry_date": {
+                    "seconds": 2271054772,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1521721183,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 26,
+                "mrp": 3.18
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PzorEKkYWmn2BGvv"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_35TRG52IC53hQBjk",
+            "lot_attributes": {
+                "batch_id": "nfr_xUS0A3D35Xm8c3oW",
+                "product_id": "nfr_ySwcua0fh72efNu0",
+                "expiry_date": {
+                    "seconds": 2614764566,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1442547376,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 24,
+                "mrp": 3.54
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5V95dBUFustQBf5g"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_WMFJTtvZt5wd5GQJ",
+            "lot_attributes": {
+                "batch_id": "nfr_14h7Z4iKvBd928Xd",
+                "product_id": "nfr_DT3R5WYRetbV54hm",
+                "expiry_date": {
+                    "seconds": 2609550009,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1509945742,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 40,
+                "mrp": 2.36
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_kFZnInrHb4nGFiXJ"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_cmdRmOFb9Mxx2fNx",
+            "lot_attributes": {
+                "batch_id": "nfr_zBR4QoSWRGT1Lyut",
+                "product_id": "nfr_QULvuGVmE1SqoZjO",
+                "expiry_date": {
+                    "seconds": 2403704149,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1332823155,
+                    "nanos": 356000000
+                },
+                "quantity": 64,
+                "sold_quantity": 23,
+                "mrp": 3.73
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vtgTje9Bv9JJZ9nX"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_mZx4Js6gqJggUyYt",
+            "lot_attributes": {
+                "batch_id": "nfr_GMa4AmuHu4aqDdNh",
+                "product_id": "nfr_dMcROmaQmU9bTzdw",
+                "expiry_date": {
+                    "seconds": 2398635083,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1527462399,
+                    "nanos": 356000000
+                },
+                "quantity": 97,
+                "sold_quantity": 20,
+                "mrp": 1.68
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_u2gyQ8zMldwg01RX"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_SAuiTy5osWIKaw2c",
+            "lot_attributes": {
+                "batch_id": "nfr_xqfrpcaHhcPHHtpy",
+                "product_id": "nfr_uGCunzQPf7SiXKWq",
+                "expiry_date": {
+                    "seconds": 2399988605,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1127994855,
+                    "nanos": 356000000
+                },
+                "quantity": 100,
+                "sold_quantity": 36,
+                "mrp": 3.14
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pPWQ7P30JM6M6Moh"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_71rFoUL61t8BEJnx",
+            "lot_attributes": {
+                "batch_id": "nfr_mM0XDw8UTZXBbefF",
+                "product_id": "nfr_bdzaozgYZuGEIb3r",
+                "expiry_date": {
+                    "seconds": 2511934245,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1103737388,
+                    "nanos": 356000000
+                },
+                "quantity": 74,
+                "sold_quantity": 48,
+                "mrp": 3.3
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Bu3olNlS3JgkRc7G"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_u1zYsOCUBF0zUPe2",
+            "lot_attributes": {
+                "batch_id": "nfr_AJOKlkwcRCXfzQ6c",
+                "product_id": "nfr_XsvMz4nFklVNR24F",
+                "expiry_date": {
+                    "seconds": 2395651995,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1389772812,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 6,
+                "mrp": 1.58
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_93O1NksOX0IbNYEl"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_h59WmJyHVOPsG0PK",
+            "lot_attributes": {
+                "batch_id": "nfr_DJbBQ3QQpb6V0y04",
+                "product_id": "nfr_qu4w7fQpCazRhJFP",
+                "expiry_date": {
+                    "seconds": 2253165292,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1505985343,
+                    "nanos": 356000000
+                },
+                "quantity": 62,
+                "sold_quantity": 6,
+                "mrp": 2.66
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_UymN5P1aWT3bOvQ7"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_9uCV3vExtlZHxct6",
+            "lot_attributes": {
+                "batch_id": "nfr_uxg5AqGmBz8t5WMT",
+                "product_id": "nfr_w61SZZsKELshau3i",
+                "expiry_date": {
+                    "seconds": 2335674046,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1344145455,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 19,
+                "mrp": 2.39
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_GTcmNwkQKaEpATfu"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_qID0V4vIgCnID1ML",
+            "lot_attributes": {
+                "batch_id": "nfr_i1TvawmnYs2kVIWt",
+                "product_id": "nfr_TQw1rBMWxamLmRdF",
+                "expiry_date": {
+                    "seconds": 2593993423,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1207403811,
+                    "nanos": 356000000
+                },
+                "quantity": 68,
+                "sold_quantity": 17,
+                "mrp": 3.14
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_6mObOQVbpgqD5ZCg"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_w88uZYm3ljkydhHo",
+            "lot_attributes": {
+                "batch_id": "nfr_7nLmVTCUTakdfF3Z",
+                "product_id": "nfr_YWk9JAhDWzpoWOHk",
+                "expiry_date": {
+                    "seconds": 2381879449,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1340878793,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 3,
+                "mrp": 2.47
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_JYH6mRtYXpBcOQ8j"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_8BxPMZBClqTJdS1V",
+            "lot_attributes": {
+                "batch_id": "nfr_rPnlST5B7Lf6jPsX",
+                "product_id": "nfr_0uYj0HpT4pfk7x4W",
+                "expiry_date": {
+                    "seconds": 2483207358,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1579090394,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 43,
+                "mrp": 1.67
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_PidQVmQVHa8teClw"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_1YmBBanupdcoTV21",
+            "lot_attributes": {
+                "batch_id": "nfr_x50PMDUl6BYLrrml",
+                "product_id": "nfr_Z9Fgdsg8eiXxkMt2",
+                "expiry_date": {
+                    "seconds": 2291241147,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1484909014,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 10,
+                "mrp": 3.67
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_2S6F3CDmYdMsEx8z"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_GuEf3wWCeu4MOvGH",
+            "lot_attributes": {
+                "batch_id": "nfr_V7KDiFgqki7CH0o4",
+                "product_id": "nfr_yT0GKTVs027Jyfsw",
+                "expiry_date": {
+                    "seconds": 2335282056,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1560815381,
+                    "nanos": 356000000
+                },
+                "quantity": 96,
+                "sold_quantity": 13,
+                "mrp": 3.59
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_3CqRD8k6abrou00E"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_JGGuVgmer3htQ1ei",
+            "lot_attributes": {
+                "batch_id": "nfr_Uxne3LjaFk8jT8WW",
+                "product_id": "nfr_pEMO8Y5nZtuDzGvN",
+                "expiry_date": {
+                    "seconds": 2347413122,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1513185124,
+                    "nanos": 356000000
+                },
+                "quantity": 63,
+                "sold_quantity": 14,
+                "mrp": 2.84
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_xExgiAw2TT4NkYft"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ZdJG9TGnNk2hWYOi",
+            "lot_attributes": {
+                "batch_id": "nfr_AL0Zd7aHpgTph5Ro",
+                "product_id": "nfr_W87k2jihRxvUsKzh",
+                "expiry_date": {
+                    "seconds": 2397479856,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1485002572,
+                    "nanos": 356000000
+                },
+                "quantity": 87,
+                "sold_quantity": 13,
+                "mrp": 2.87
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_FngULeaWKM0sWFEF"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_aRrsz8d3ZUPFOBUD",
+            "lot_attributes": {
+                "batch_id": "nfr_e5XqNCUXBTDnbmxO",
+                "product_id": "nfr_Ku9mQbqlDo2waZQd",
+                "expiry_date": {
+                    "seconds": 2256465482,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1226056880,
+                    "nanos": 356000000
+                },
+                "quantity": 73,
+                "sold_quantity": 10,
+                "mrp": 2.49
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_moKfxUHixM5I8evP"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_JASFQqbgnmzp37y3",
+            "lot_attributes": {
+                "batch_id": "nfr_4SCQg9lIIXKO9Mns",
+                "product_id": "nfr_TJINSvZJ6zEdpZyk",
+                "expiry_date": {
+                    "seconds": 2396949532,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1320444654,
+                    "nanos": 356000000
+                },
+                "quantity": 97,
+                "sold_quantity": 33,
+                "mrp": 2.76
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_rGrccr45yp0EH25Y"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_SqDCVt7iIJQ2YEA4",
+            "lot_attributes": {
+                "batch_id": "nfr_o9jbbcbFSwCurwgS",
+                "product_id": "nfr_A5iMR9yjogsPBmDX",
+                "expiry_date": {
+                    "seconds": 2576488547,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1458657195,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 17,
+                "mrp": 3.12
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_XP17kR0wnfzyrmy9"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_0o2NKHs1BwWUy7wp",
+            "lot_attributes": {
+                "batch_id": "nfr_WwShLwjCE7ilgOgB",
+                "product_id": "nfr_mjzYDdu5uYWInqqA",
+                "expiry_date": {
+                    "seconds": 2566222213,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1176331299,
+                    "nanos": 356000000
+                },
+                "quantity": 91,
+                "sold_quantity": 39,
+                "mrp": 2.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_n69OeBeEDlcFIPaG"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_GcH3d5l4CzFWLRsb",
+            "lot_attributes": {
+                "batch_id": "nfr_0jD1zPPF0xOKzgk1",
+                "product_id": "nfr_G397B180zAidnJOU",
+                "expiry_date": {
+                    "seconds": 2610507898,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1169210256,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 7,
+                "mrp": 2.52
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_TLEjbb9yQJ0LPfOB"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_iT4TJsnoPhPsULqP",
+            "lot_attributes": {
+                "batch_id": "nfr_bVOzuHqxQrS6iobf",
+                "product_id": "nfr_D1fRzz4kxCtgwgPx",
+                "expiry_date": {
+                    "seconds": 2460911728,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1280608581,
+                    "nanos": 356000000
+                },
+                "quantity": 76,
+                "sold_quantity": 44,
+                "mrp": 2.48
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_1ZfchUPU6ttFMITv"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Cnl1eFlkuc6jm6VQ",
+            "lot_attributes": {
+                "batch_id": "nfr_YaAR6A2kRc7i7jSh",
+                "product_id": "nfr_dxcX8sFDyGXW53BT",
+                "expiry_date": {
+                    "seconds": 2295320911,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1256926134,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 39,
+                "mrp": 3.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_ofT2uotjDR3meaj1"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_89eUCJ3RFNkICkWr",
+            "lot_attributes": {
+                "batch_id": "nfr_Px94ao2EgXE3ylzK",
+                "product_id": "nfr_R0xt6suqHLvCJx4C",
+                "expiry_date": {
+                    "seconds": 2536825012,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1452077162,
+                    "nanos": 356000000
+                },
+                "quantity": 83,
+                "sold_quantity": 24,
+                "mrp": 2.41
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_0J3h15jYMbsFpwy6"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_8ljTTA1gYIsjgh1m",
+            "lot_attributes": {
+                "batch_id": "nfr_j1ht49eVhbyxAeh4",
+                "product_id": "nfr_MIMuN0mvELUVdTlC",
+                "expiry_date": {
+                    "seconds": 2248235058,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1177711894,
+                    "nanos": 356000000
+                },
+                "quantity": 80,
+                "sold_quantity": 33,
+                "mrp": 3.18
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_bAx3ueQWWAiByIxS"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_CzKLHEhqAKiTnhXM",
+            "lot_attributes": {
+                "batch_id": "nfr_9rX9BgyoCY3gtLxe",
+                "product_id": "nfr_sNFVy2dIKi4pbKte",
+                "expiry_date": {
+                    "seconds": 2486094654,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1261600140,
+                    "nanos": 356000000
+                },
+                "quantity": 86,
+                "sold_quantity": 47,
+                "mrp": 2.79
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_xSKpQoIS6d2AVyyl"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_psCUVseVDCmrNlGE",
+            "lot_attributes": {
+                "batch_id": "nfr_mFrvyJFZ1LiXRQpP",
+                "product_id": "nfr_jkJ8hVtyIubWkL1A",
+                "expiry_date": {
+                    "seconds": 2437159586,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1406681749,
+                    "nanos": 356000000
+                },
+                "quantity": 77,
+                "sold_quantity": 16,
+                "mrp": 3.82
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Mnd8Fs1vRUNC2i48"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_NFLFaYD6QWiSw04W",
+            "lot_attributes": {
+                "batch_id": "nfr_q498VZgZKL1nNUJC",
+                "product_id": "nfr_MG0oI1W0p5fMi407",
+                "expiry_date": {
+                    "seconds": 2549747253,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1279427659,
+                    "nanos": 356000000
+                },
+                "quantity": 84,
+                "sold_quantity": 33,
+                "mrp": 2.99
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_5S9szixJvn4GQemA"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_biY5llC81rmgVkbI",
+            "lot_attributes": {
+                "batch_id": "nfr_b0f9FdECcnBKfkaI",
+                "product_id": "nfr_t6ho9SXm69zk60Rn",
+                "expiry_date": {
+                    "seconds": 2246769221,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1587489844,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 4,
+                "mrp": 2.66
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_gvVIXyxL8ogMewX9"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_tffnFXvpg02KXpMu",
+            "lot_attributes": {
+                "batch_id": "nfr_RxpJS2Av3TtInBfz",
+                "product_id": "nfr_2f9Fnle8MpZhO3xR",
+                "expiry_date": {
+                    "seconds": 2613350895,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1520349876,
+                    "nanos": 356000000
+                },
+                "quantity": 53,
+                "sold_quantity": 4,
+                "mrp": 3.34
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_OFadVgENFW8eug4i"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_OKT3OOvbydI7QRDn",
+            "lot_attributes": {
+                "batch_id": "nfr_CXI9q2OY6tIGnGir",
+                "product_id": "nfr_pw6CZbQJuEb0Z0DQ",
+                "expiry_date": {
+                    "seconds": 2423365290,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1138371001,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 2,
+                "mrp": 1.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_C8M0D84wSubYmx8A"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_51u5d3unzLTwB7Be",
+            "lot_attributes": {
+                "batch_id": "nfr_bODbf8Aw2Fld5b4c",
+                "product_id": "nfr_9m49lzP2TWh4fS8K",
+                "expiry_date": {
+                    "seconds": 2272708968,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1159833989,
+                    "nanos": 356000000
+                },
+                "quantity": 93,
+                "sold_quantity": 12,
+                "mrp": 3.08
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_afAxTXbylfSZzvVR"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_qgovA2moGy4hXqRF",
+            "lot_attributes": {
+                "batch_id": "nfr_4VjEWdcvZpJQulwp",
+                "product_id": "nfr_lMxQfkDMkKgRyaCW",
+                "expiry_date": {
+                    "seconds": 2234715147,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1133279117,
+                    "nanos": 356000000
+                },
+                "quantity": 90,
+                "sold_quantity": 38,
+                "mrp": 2.49
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_MDPaakhwEj2TT5tI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_BxFcX6VawHw9eOup",
+            "lot_attributes": {
+                "batch_id": "nfr_fnRdxaMdrH7WLWNU",
+                "product_id": "nfr_hseOvK9S62s3tvbX",
+                "expiry_date": {
+                    "seconds": 2439362432,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1170951492,
+                    "nanos": 356000000
+                },
+                "quantity": 76,
+                "sold_quantity": 3,
+                "mrp": 2.77
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_mhCsdC51OOwMnVqI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_YSnigvSZcV6btunR",
+            "lot_attributes": {
+                "batch_id": "nfr_mFWtmPEI9XIPi555",
+                "product_id": "nfr_EtL5RFHv47xJn1Sq",
+                "expiry_date": {
+                    "seconds": 2540710778,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1527939592,
+                    "nanos": 356000000
+                },
+                "quantity": 77,
+                "sold_quantity": 17,
+                "mrp": 2.59
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_O9qmWU6nSTmgQZ9X"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_wVprRLOrjMOmfbsJ",
+            "lot_attributes": {
+                "batch_id": "nfr_KSdaEnnEWQr9yyyA",
+                "product_id": "nfr_tiQddYHs4lC5dgdK",
+                "expiry_date": {
+                    "seconds": 2396037130,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1507281060,
+                    "nanos": 356000000
+                },
+                "quantity": 99,
+                "sold_quantity": 20,
+                "mrp": 2.9
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_t7nFvdix70l4JWDV"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_Vtq560F0biiG9a2j",
+            "lot_attributes": {
+                "batch_id": "nfr_pSlYKYBHfSr42nAP",
+                "product_id": "nfr_00QYbuJ2fAn6N8zu",
+                "expiry_date": {
+                    "seconds": 2390849204,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1250367971,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 11,
+                "mrp": 1.86
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_NM6oNHdJkUTO3Nc2"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_eGlwwHw5uA6qLIBl",
+            "lot_attributes": {
+                "batch_id": "nfr_dKzYzXMIGAJIS4pf",
+                "product_id": "nfr_jsvvys0SgumHFEJP",
+                "expiry_date": {
+                    "seconds": 2449100874,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1523569499,
+                    "nanos": 356000000
+                },
+                "quantity": 77,
+                "sold_quantity": 46,
+                "mrp": 1.6
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4E3EEBSPZIfEh8hn"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ShkpeYIOk8EzywJL",
+            "lot_attributes": {
+                "batch_id": "nfr_yL0rdFKh3fZxVwCO",
+                "product_id": "nfr_atJIvRCyCcpZ3MxX",
+                "expiry_date": {
+                    "seconds": 2259235315,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1137300216,
+                    "nanos": 356000000
+                },
+                "quantity": 78,
+                "sold_quantity": 27,
+                "mrp": 3.87
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_azFm422tNPwXKePq"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_ptgSZfxLshmkTQZ3",
+            "lot_attributes": {
+                "batch_id": "nfr_zW4ZbjwdsjNnEACR",
+                "product_id": "nfr_gaTT8eZNrJFSrYeB",
+                "expiry_date": {
+                    "seconds": 2303306230,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1508597949,
+                    "nanos": 356000000
+                },
+                "quantity": 95,
+                "sold_quantity": 2,
+                "mrp": 2.82
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_vBnMBKPuuskgEDDe"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_pjqoIl2tIUNwCtT3",
+            "lot_attributes": {
+                "batch_id": "nfr_qFD6WEPJBJ8I48fl",
+                "product_id": "nfr_e3rcV5QZoIS3govg",
+                "expiry_date": {
+                    "seconds": 2603156854,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1100081782,
+                    "nanos": 356000000
+                },
+                "quantity": 72,
+                "sold_quantity": 23,
+                "mrp": 2.53
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_pvBqdbGbYrL8fBup"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_S2dRVAt0Rw6XI8xc",
+            "lot_attributes": {
+                "batch_id": "nfr_faTyGxdsYtkN9KOA",
+                "product_id": "nfr_ujXprmwSFRAnErcS",
+                "expiry_date": {
+                    "seconds": 2375856412,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1325273776,
+                    "nanos": 356000000
+                },
+                "quantity": 79,
+                "sold_quantity": 15,
+                "mrp": 2.18
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_nbEoGdWkdImbtoVI"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_85e2qPsNQw60xPDD",
+            "lot_attributes": {
+                "batch_id": "nfr_fAAs2Z7JGMqIybJQ",
+                "product_id": "nfr_4DCj5Jc8dpbaq0hA",
+                "expiry_date": {
+                    "seconds": 2372545852,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1284306171,
+                    "nanos": 356000000
+                },
+                "quantity": 59,
+                "sold_quantity": 43,
+                "mrp": 1.84
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_lBP6s2cODgVUb3tm"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_YdKdYJSoGIch5SuJ",
+            "lot_attributes": {
+                "batch_id": "nfr_q9HeyEA6YilhqJD9",
+                "product_id": "nfr_n7YHHWSeIjFET9pI",
+                "expiry_date": {
+                    "seconds": 2607885980,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1194238423,
+                    "nanos": 356000000
+                },
+                "quantity": 66,
+                "sold_quantity": 23,
+                "mrp": 3.34
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_tynS7w6ZAGSswaZa"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_rSsqpWEMY8PSEjwO",
+            "lot_attributes": {
+                "batch_id": "nfr_LwxaI8xwf550suPY",
+                "product_id": "nfr_U2eGtebyeMB2SSC1",
+                "expiry_date": {
+                    "seconds": 2267884585,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1380559434,
+                    "nanos": 356000000
+                },
+                "quantity": 51,
+                "sold_quantity": 18,
+                "mrp": 1.62
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_o66L3Itgfc0lZMd8"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_dMyuZtVxBYZ80b4A",
+            "lot_attributes": {
+                "batch_id": "nfr_fJxTcO6t2ZrJpidL",
+                "product_id": "nfr_Dp8wnyMJsEnkdYdo",
+                "expiry_date": {
+                    "seconds": 2486079553,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1202955744,
+                    "nanos": 356000000
+                },
+                "quantity": 70,
+                "sold_quantity": 36,
+                "mrp": 3.36
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4wInnYyoy6AETHN7"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_vIA72MdFVdAyOaDR",
+            "lot_attributes": {
+                "batch_id": "nfr_9N8NnF6RBBRV3y6Q",
+                "product_id": "nfr_LFnPaEWQZv9WiCYg",
+                "expiry_date": {
+                    "seconds": 2398245153,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1334696449,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 35,
+                "mrp": 2.61
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_4ZXeXSb9ox9h5CcN"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_nbqr4sVzONof3779",
+            "lot_attributes": {
+                "batch_id": "nfr_nXxTIh438GDSrHuS",
+                "product_id": "nfr_ZvqGq1bnmHq5xtLB",
+                "expiry_date": {
+                    "seconds": 2241210186,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1470953502,
+                    "nanos": 356000000
+                },
+                "quantity": 83,
+                "sold_quantity": 42,
+                "mrp": 3.74
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_Tn1Z5XRGhL2SyGPi"
+            }
+        },
+        {
+            "fkh_lot_id": "fkh34788a8f-9279-4da4-8ef6-8df321c5a1ae",
+            "distributor_apob_id": "nfr_MFqKFfpTu0npqRCA",
+            "lot_attributes": {
+                "batch_id": "nfr_0PUXoOqnB5GHtkJG",
+                "product_id": "nfr_FItbb8r3SLdpWmV6",
+                "expiry_date": {
+                    "seconds": 2596738638,
+                    "nanos": 356000000
+                },
+                "mfg_date": {
+                    "seconds": 1451446456,
+                    "nanos": 356000000
+                },
+                "quantity": 71,
+                "sold_quantity": 18,
+                "mrp": 3.32
+            },
+            "external_lot_id": {
+                "name": "pk_lot",
+                "value": "nfr_mV5nceIGvOS1q2R3"
+            }
+        }
+    ]
+}
