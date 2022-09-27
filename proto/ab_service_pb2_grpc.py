@@ -2,7 +2,7 @@
 """Client and server classes corresponding to protobuf-defined services."""
 import grpc
 
-import ab_service_pb2 as ab__service__pb2
+from proto import ab_service_pb2 as ab__service__pb2
 
 
 class ABServiceStub(object):

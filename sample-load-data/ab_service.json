@@ -1,0 +1,8 @@
+{
+  "request": [
+    {
+      "userId": "123",
+      "experimentName": "portal-service"
+    }
+  ]
+}
